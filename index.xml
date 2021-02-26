@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>KS2 Full Dataset Demo</title>
-    <link>http://example.org/</link>
+    <link>https://mahardan-oup.github.io/CLDDemo/</link>
     <description>Recent content on KS2 Full Dataset Demo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 26 Feb 2021 11:27:40 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mahardan-oup.github.io/CLDDemo/index.xml" rel="self" type="application/rss+xml" />
     
     
     
     <item>
       <title>KS2 Demo Index Page</title>
-      <link>http://example.org/posts/AAAindex/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/AAAindex/</link>
       <pubDate>Fri, 26 Feb 2021 11:27:40 +0000</pubDate>
       
-      <guid>http://example.org/posts/AAAindex/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/AAAindex/</guid>
       <description>Building a Full Data Set. In this demonstration, we have taken the first 97 entries in the Oxford Primary Dictionary and generated 276 new ones by creating complete entries for each root word, inflection, variant and derivative, taking additional information from the Primary Illustrated Dictionary and OED for schools. The below table shows the original entries from the OPD on the left and the entries generated on the right. Future development will refine examples, definitions, and add audio availability</description>
     </item>
     
@@ -25,10 +25,10 @@
     
     <item>
       <title>a (determiner)</title>
-      <link>http://example.org/posts/a_determiner/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/a_determiner/</link>
       <pubDate>Wed, 24 Feb 2021 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/a_determiner/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/a_determiner/</guid>
       <description>a determiner
  one any each every used to show how often something happens  Root word: a (determiner) is a root form in the a word family.
  Related roots: None
@@ -39,10 +39,10 @@ Related words: an (determiner)</description>
     
     <item>
       <title>aardvark (noun)</title>
-      <link>http://example.org/posts/aardvark_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/aardvark_noun/</link>
       <pubDate>Tue, 23 Feb 2021 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/aardvark_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/aardvark_noun/</guid>
       <description>aardvark noun ard-vark ˈɑːdvɑːk
  an African animal with a long snout that eats ants and termites  Etymology: from Afrikaans, from aarde &amp;lsquo;earth&amp;rsquo; and vark &amp;lsquo;pig&amp;rsquo;
 Root word: aardvark (noun) is a root form in the aardvark word family.
@@ -54,10 +54,10 @@ Related words: aardvarks (noun)</description>
     
     <item>
       <title>aardvarks (noun)</title>
-      <link>http://example.org/posts/aardvarks_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/aardvarks_noun/</link>
       <pubDate>Mon, 22 Feb 2021 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/aardvarks_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/aardvarks_noun/</guid>
       <description>aardvarks noun aardvarks is the plural form of aardvark
  an African animal with a long snout that eats ants and termites  Etymology: from Afrikaans, from aarde &amp;lsquo;earth&amp;rsquo; and vark &amp;lsquo;pig&amp;rsquo;
 Root word: aardvark (noun)
@@ -69,10 +69,10 @@ Related words: None</description>
     
     <item>
       <title>aback (adverb)</title>
-      <link>http://example.org/posts/aback_adverb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/aback_adverb/</link>
       <pubDate>Sun, 21 Feb 2021 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/aback_adverb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/aback_adverb/</guid>
       <description>aback adverb əˈbæk
 Etymology: from Old English on bæc &amp;lsquo;backwards&amp;rsquo;. Aback was originally used to describe the sails of a ship when a wind blowing from the front pressed them back against the mast.
 Root word: aback (adverb) is a root form in the aback word family.
@@ -84,10 +84,10 @@ Related words: None</description>
     
     <item>
       <title>abacus (noun)</title>
-      <link>http://example.org/posts/abacus_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/abacus_noun/</link>
       <pubDate>Sat, 20 Feb 2021 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/abacus_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/abacus_noun/</guid>
       <description>abacus noun ˈæbəkəs
  a frame with rows of sliding beads, used for counting and doing sums  Etymology: from Greek abax, a name for a board covered with grains of sand, used for counting. The Greek word came from a Hebrew word meaning &amp;lsquo;dust&amp;rsquo;.
 Root word: abacus (noun) is a root form in the abacus word family.
@@ -99,10 +99,10 @@ Related words: abacuses (noun)</description>
     
     <item>
       <title>abacuses (noun)</title>
-      <link>http://example.org/posts/abacuses_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/abacuses_noun/</link>
       <pubDate>Fri, 19 Feb 2021 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/abacuses_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/abacuses_noun/</guid>
       <description>abacuses noun ˈæbəkəsɪz abacuses is the plural form of abacus
  a frame with rows of sliding beads, used for counting and doing sums  Etymology: from Greek abax, a name for a board covered with grains of sand, used for counting. The Greek word came from a Hebrew word meaning &amp;lsquo;dust&amp;rsquo;.
 Root word: abacus (noun)
@@ -114,10 +114,10 @@ Related words: None</description>
     
     <item>
       <title>abandon (noun)</title>
-      <link>http://example.org/posts/abandon_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/abandon_noun/</link>
       <pubDate>Thu, 18 Feb 2021 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/abandon_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/abandon_noun/</guid>
       <description>abandon noun əˈbændən
  To do something with abandon is to do it without any restraint or self-control.  Root word: abandon (noun) is a root form in the abandon word family.
  Related roots: abandon (verb)
@@ -128,10 +128,10 @@ Related words: None</description>
     
     <item>
       <title>abandon (verb)</title>
-      <link>http://example.org/posts/abandon_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/abandon_verb/</link>
       <pubDate>Wed, 17 Feb 2021 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/abandon_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/abandon_verb/</guid>
       <description>abandon verb əˈbændən
  to abandon something or someone is to go away and leave them, without intending to go back to stop doing something when it becomes impossible  Root word: abandon (verb) is a root form in the abandon word family.
  Related roots: abandon (noun)
@@ -142,10 +142,10 @@ Related words: abandons (verb), abandoning (verb), abandoned (verb), abandonment
     
     <item>
       <title>abandoned (verb)</title>
-      <link>http://example.org/posts/abandoned_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/abandoned_verb/</link>
       <pubDate>Tue, 16 Feb 2021 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/abandoned_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/abandoned_verb/</guid>
       <description>abandoned verb əˈbændənd abandoned is the past participle of abandon
  to abandon something or someone is to go away and leave them, without intending to go back to stop doing something when it becomes impossible  Root word: abandon (verb)
  Related roots: abandon (noun)
@@ -156,10 +156,10 @@ Related words: abandons (verb), abandoning (verb), abandonment (noun)</descripti
     
     <item>
       <title>abandoning (verb)</title>
-      <link>http://example.org/posts/abandoning_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/abandoning_verb/</link>
       <pubDate>Mon, 15 Feb 2021 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/abandoning_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/abandoning_verb/</guid>
       <description>abandoning verb əˈbændənɪŋ abandoning is the present continuous tense of abandon
  to abandon something or someone is to go away and leave them, without intending to go back to stop doing something when it becomes impossible  Root word: abandon (verb)
  Related roots: abandon (noun)
@@ -170,10 +170,10 @@ Related words: abandons (verb), abandoned (verb), abandonment (noun)</descriptio
     
     <item>
       <title>abandonment (noun)</title>
-      <link>http://example.org/posts/abandonment_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/abandonment_noun/</link>
       <pubDate>Sun, 14 Feb 2021 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/abandonment_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/abandonment_noun/</guid>
       <description>abandonment noun abandonment is a derivative of abandon
 Root word: abandon (verb)
  Related roots: abandon (noun)
@@ -184,10 +184,10 @@ Related words: abandons (verb), abandoning (verb), abandoned (verb)</description
     
     <item>
       <title>abandons (verb)</title>
-      <link>http://example.org/posts/abandons_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/abandons_verb/</link>
       <pubDate>Sat, 13 Feb 2021 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/abandons_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/abandons_verb/</guid>
       <description>abandons verb əˈbændənz abandons is the third person present form of abandon
  to abandon something or someone is to go away and leave them, without intending to go back to stop doing something when it becomes impossible  Root word: abandon (verb)
  Related roots: abandon (noun)
@@ -198,10 +198,10 @@ Related words: abandoning (verb), abandoned (verb), abandonment (noun)</descript
     
     <item>
       <title>abbey (noun)</title>
-      <link>http://example.org/posts/abbey_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/abbey_noun/</link>
       <pubDate>Fri, 12 Feb 2021 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/abbey_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/abbey_noun/</guid>
       <description>abbey noun ˈæbi
  a group of buildings where monks or nuns live and work a church which is or was part of an abbey, such as Westminster Abbey in London a monastery or convent a church that was once part of a monastery, for example Westminster Abbey in London  Root word: abbey (noun) is a root form in the abbey word family.
  Related roots: None
@@ -212,10 +212,10 @@ Related words: abbeys (noun)</description>
     
     <item>
       <title>abbeys (noun)</title>
-      <link>http://example.org/posts/abbeys_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/abbeys_noun/</link>
       <pubDate>Thu, 11 Feb 2021 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/abbeys_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/abbeys_noun/</guid>
       <description>abbeys noun ˈæbiz abbeys is the plural form of abbey
  a group of buildings where monks or nuns live and work a church which is or was part of an abbey, such as Westminster Abbey in London a monastery or convent a church that was once part of a monastery, for example Westminster Abbey in London  Root word: abbey (noun)
  Related roots: None
@@ -226,10 +226,10 @@ Related words: None</description>
     
     <item>
       <title>abbot (noun)</title>
-      <link>http://example.org/posts/abbot_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/abbot_noun/</link>
       <pubDate>Wed, 10 Feb 2021 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/abbot_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/abbot_noun/</guid>
       <description>abbot noun ˈæbət
  the head of an abbey of monks  Etymology: from Greek abbas &amp;lsquo;father&amp;rsquo;, from Aramaic (an ancient language once spoken in the Middle East)
 Root word: abbot (noun) is a root form in the abbot word family.
@@ -241,10 +241,10 @@ Related words: abbots (noun)</description>
     
     <item>
       <title>abbots (noun)</title>
-      <link>http://example.org/posts/abbots_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/abbots_noun/</link>
       <pubDate>Tue, 09 Feb 2021 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/abbots_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/abbots_noun/</guid>
       <description>abbots noun abbots is the plural form of abbot
  the head of an abbey of monks  Etymology: from Greek abbas &amp;lsquo;father&amp;rsquo;, from Aramaic (an ancient language once spoken in the Middle East)
 Root word: abbot (noun)
@@ -256,10 +256,10 @@ Related words: None</description>
     
     <item>
       <title>abbreviate (verb)</title>
-      <link>http://example.org/posts/abbreviate_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/abbreviate_verb/</link>
       <pubDate>Mon, 08 Feb 2021 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/abbreviate_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/abbreviate_verb/</guid>
       <description>abbreviate verb əˈbriːvieɪt
  to abbreviate a word or phrase is to write it with fewer letters so that it is shorter  Etymology: from Latin brevis &amp;lsquo;short&amp;rsquo;, also the origin of our word brief
 Root word: abbreviate (verb) is a root form in the abbreviate word family.
@@ -271,10 +271,10 @@ Related words: abbreviates (verb), abbreviating (verb), abbreviated (verb)</desc
     
     <item>
       <title>abbreviated (verb)</title>
-      <link>http://example.org/posts/abbreviated_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/abbreviated_verb/</link>
       <pubDate>Sun, 07 Feb 2021 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/abbreviated_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/abbreviated_verb/</guid>
       <description>abbreviated verb əˈbriːvieɪtɪd abbreviated is the past participle of abbreviate
  to abbreviate a word or phrase is to write it with fewer letters so that it is shorter  Etymology: from Latin brevis &amp;lsquo;short&amp;rsquo;, also the origin of our word brief
 Root word: abbreviate (verb)
@@ -286,10 +286,10 @@ Related words: abbreviates (verb), abbreviating (verb)</description>
     
     <item>
       <title>abbreviates (verb)</title>
-      <link>http://example.org/posts/abbreviates_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/abbreviates_verb/</link>
       <pubDate>Sat, 06 Feb 2021 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/abbreviates_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/abbreviates_verb/</guid>
       <description>abbreviates verb əˈbriːvieɪts abbreviates is the third person present form of abbreviate
  to abbreviate a word or phrase is to write it with fewer letters so that it is shorter  Etymology: from Latin brevis &amp;lsquo;short&amp;rsquo;, also the origin of our word brief
 Root word: abbreviate (verb)
@@ -301,10 +301,10 @@ Related words: abbreviating (verb), abbreviated (verb)</description>
     
     <item>
       <title>abbreviating (verb)</title>
-      <link>http://example.org/posts/abbreviating_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/abbreviating_verb/</link>
       <pubDate>Fri, 05 Feb 2021 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/abbreviating_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/abbreviating_verb/</guid>
       <description>abbreviating verb əˈbriːvieɪtɪŋ abbreviating is the present continuous tense of abbreviate
  to abbreviate a word or phrase is to write it with fewer letters so that it is shorter  Etymology: from Latin brevis &amp;lsquo;short&amp;rsquo;, also the origin of our word brief
 Root word: abbreviate (verb)
@@ -316,10 +316,10 @@ Related words: abbreviates (verb), abbreviated (verb)</description>
     
     <item>
       <title>abbreviation (noun)</title>
-      <link>http://example.org/posts/abbreviation_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/abbreviation_noun/</link>
       <pubDate>Thu, 04 Feb 2021 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/abbreviation_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/abbreviation_noun/</guid>
       <description>abbreviation noun əˌbriːviˈeɪʃn
  a word or group of letters that is a shorter form of a word or phrase  Root word: abbreviation (noun) is a root form in the abbreviation word family.
  Related roots: None
@@ -330,10 +330,10 @@ Related words: abbreviations (noun)</description>
     
     <item>
       <title>abbreviations (noun)</title>
-      <link>http://example.org/posts/abbreviations_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/abbreviations_noun/</link>
       <pubDate>Wed, 03 Feb 2021 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/abbreviations_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/abbreviations_noun/</guid>
       <description>abbreviations noun abbreviations is the plural form of abbreviation
  a word or group of letters that is a shorter form of a word or phrase  Root word: abbreviation (noun)
  Related roots: None
@@ -344,10 +344,10 @@ Related words: None</description>
     
     <item>
       <title>abdomen (noun)</title>
-      <link>http://example.org/posts/abdomen_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/abdomen_noun/</link>
       <pubDate>Tue, 02 Feb 2021 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/abdomen_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/abdomen_noun/</guid>
       <description>abdomen noun ˈæbdəmən
  the part of your body below your chest, which contains your stomach and intestines the back part of the body of an insect or spider the lower front part of a person&amp;rsquo;s or animal&amp;rsquo;s body, containing the stomach, intestines, and other organs used for digesting food the rear section of an insect&amp;rsquo;s body  Root word: abdomen (noun) is a root form in the abdomen word family.</description>
     </item>
@@ -356,10 +356,10 @@ Related words: None</description>
     
     <item>
       <title>abdomens (noun)</title>
-      <link>http://example.org/posts/abdomens_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/abdomens_noun/</link>
       <pubDate>Mon, 01 Feb 2021 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/abdomens_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/abdomens_noun/</guid>
       <description>abdomens noun abdomens is the plural form of abdomen
  the part of your body below your chest, which contains your stomach and intestines the back part of the body of an insect or spider the lower front part of a person&amp;rsquo;s or animal&amp;rsquo;s body, containing the stomach, intestines, and other organs used for digesting food the rear section of an insect&amp;rsquo;s body  Root word: abdomen (noun)
  Related roots: None</description>
@@ -369,10 +369,10 @@ Related words: None</description>
     
     <item>
       <title>abdominal (adjective)</title>
-      <link>http://example.org/posts/abdominal_adjective/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/abdominal_adjective/</link>
       <pubDate>Sat, 30 Jan 2021 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/abdominal_adjective/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/abdominal_adjective/</guid>
       <description>abdominal adjective æbˈdɒmɪnl abdominal is a derivative of abdomen
 Root word: abdomen (noun)
  Related roots: None
@@ -383,10 +383,10 @@ Related words: abdomens (noun)</description>
     
     <item>
       <title>abduct (verb)</title>
-      <link>http://example.org/posts/abduct_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/abduct_verb/</link>
       <pubDate>Fri, 29 Jan 2021 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/abduct_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/abduct_verb/</guid>
       <description>abduct verb ab-dukt æbˈdʌkt
  to abduct someone is to kidnap them to take a person away by force and against their will; to kidnap someone  Root word: abduct (verb) is a root form in the abduct word family.
  Related roots: None
@@ -397,10 +397,10 @@ Related words: abducts (verb), abducting (verb), abducted (verb), abduction (nou
     
     <item>
       <title>abducted (verb)</title>
-      <link>http://example.org/posts/abducted_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/abducted_verb/</link>
       <pubDate>Thu, 28 Jan 2021 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/abducted_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/abducted_verb/</guid>
       <description>abducted verb æbˈdʌktɪd abducted is the past participle of abduct
  to abduct someone is to kidnap them to take a person away by force and against their will; to kidnap someone  Root word: abduct (verb)
  Related roots: None
@@ -411,10 +411,10 @@ Related words: abducts (verb), abducting (verb), abduction (noun), abductor (nou
     
     <item>
       <title>abducting (verb)</title>
-      <link>http://example.org/posts/abducting_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/abducting_verb/</link>
       <pubDate>Wed, 27 Jan 2021 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/abducting_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/abducting_verb/</guid>
       <description>abducting verb æbˈdʌktɪŋ abducting is the present continuous tense of abduct
  to abduct someone is to kidnap them to take a person away by force and against their will; to kidnap someone  Root word: abduct (verb)
  Related roots: None
@@ -425,10 +425,10 @@ Related words: abducts (verb), abducted (verb), abduction (noun), abductor (noun
     
     <item>
       <title>abduction (noun)</title>
-      <link>http://example.org/posts/abduction_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/abduction_noun/</link>
       <pubDate>Tue, 26 Jan 2021 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/abduction_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/abduction_noun/</guid>
       <description>abduction noun abduction is a derivative of abduct
 Root word: abduct (verb)
  Related roots: None
@@ -439,10 +439,10 @@ Related words: abducts (verb), abducting (verb), abducted (verb), abductor (noun
     
     <item>
       <title>abductor (noun)</title>
-      <link>http://example.org/posts/abductor_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/abductor_noun/</link>
       <pubDate>Mon, 25 Jan 2021 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/abductor_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/abductor_noun/</guid>
       <description>abductor noun abductor is a derivative of abduct
 Root word: abduct (verb)
  Related roots: None
@@ -453,10 +453,10 @@ Related words: abducts (verb), abducting (verb), abducted (verb), abduction (nou
     
     <item>
       <title>abducts (verb)</title>
-      <link>http://example.org/posts/abducts_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/abducts_verb/</link>
       <pubDate>Sun, 24 Jan 2021 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/abducts_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/abducts_verb/</guid>
       <description>abducts verb æbˈdʌkts abducts is the third person present form of abduct
  to abduct someone is to kidnap them to take a person away by force and against their will; to kidnap someone  Root word: abduct (verb)
  Related roots: None
@@ -467,10 +467,10 @@ Related words: abducting (verb), abducted (verb), abduction (noun), abductor (no
     
     <item>
       <title>abide (verb)</title>
-      <link>http://example.org/posts/abide_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/abide_verb/</link>
       <pubDate>Sat, 23 Jan 2021 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/abide_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/abide_verb/</guid>
       <description>abide verb əˈbaɪd
  you cannot abide something or someone when you don&amp;rsquo;t like them at all to abide by a rule or promise is to keep to it If you cannot abide something, you detest it or cannot bear it.  Etymology: from Old English abidan &amp;lsquo;to wait&amp;rsquo;
 Root word: abide (verb) is a root form in the abide word family.
@@ -482,10 +482,10 @@ Related words: abides (verb), abiding (verb), abode (verb), abided (verb)</descr
     
     <item>
       <title>abided (verb)</title>
-      <link>http://example.org/posts/abided_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/abided_verb/</link>
       <pubDate>Fri, 22 Jan 2021 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/abided_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/abided_verb/</guid>
       <description>abided verb əˈbaɪdɪd abided is the past participle of abide
  you cannot abide something or someone when you don&amp;rsquo;t like them at all to abide by a rule or promise is to keep to it If you cannot abide something, you detest it or cannot bear it.  Etymology: from Old English abidan &amp;lsquo;to wait&amp;rsquo;
 Root word: abide (verb)
@@ -497,10 +497,10 @@ Related words: abides (verb), abiding (verb), abode (verb)</description>
     
     <item>
       <title>abides (verb)</title>
-      <link>http://example.org/posts/abides_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/abides_verb/</link>
       <pubDate>Thu, 21 Jan 2021 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/abides_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/abides_verb/</guid>
       <description>abides verb əˈbaɪdz abides is the third person present form of abide
  you cannot abide something or someone when you don&amp;rsquo;t like them at all to abide by a rule or promise is to keep to it If you cannot abide something, you detest it or cannot bear it.  Etymology: from Old English abidan &amp;lsquo;to wait&amp;rsquo;
 Root word: abide (verb)
@@ -512,10 +512,10 @@ Related words: abiding (verb), abode (verb), abided (verb)</description>
     
     <item>
       <title>abiding (adjective)</title>
-      <link>http://example.org/posts/abiding_adjective/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/abiding_adjective/</link>
       <pubDate>Wed, 20 Jan 2021 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/abiding_adjective/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/abiding_adjective/</guid>
       <description>abiding adjective əˈbaɪdɪŋ
  lasting or permanent  Root word: abiding (adjective) is a root form in the abiding word family.
  Related roots: None
@@ -526,10 +526,10 @@ Related words: None</description>
     
     <item>
       <title>abiding (verb)</title>
-      <link>http://example.org/posts/abiding_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/abiding_verb/</link>
       <pubDate>Tue, 19 Jan 2021 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/abiding_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/abiding_verb/</guid>
       <description>abiding verb əˈbaɪdɪŋ abiding is the present continuous tense of abide
  you cannot abide something or someone when you don&amp;rsquo;t like them at all to abide by a rule or promise is to keep to it If you cannot abide something, you detest it or cannot bear it.  Etymology: from Old English abidan &amp;lsquo;to wait&amp;rsquo;
 Root word: abide (verb)
@@ -541,10 +541,10 @@ Related words: abides (verb), abode (verb), abided (verb)</description>
     
     <item>
       <title>abilities (noun)</title>
-      <link>http://example.org/posts/abilities_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/abilities_noun/</link>
       <pubDate>Mon, 18 Jan 2021 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/abilities_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/abilities_noun/</guid>
       <description>abilities noun əˈbɪlətiz abilities is the plural form of ability
  ability is the skill or talent to do something an ability is a special skill or talent Ability is being able to do something. Ability is the fact that you can do something.  Root word: ability (noun)
  Related roots: None
@@ -555,10 +555,10 @@ Related words: None</description>
     
     <item>
       <title>ability (noun)</title>
-      <link>http://example.org/posts/ability_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/ability_noun/</link>
       <pubDate>Sun, 17 Jan 2021 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/ability_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/ability_noun/</guid>
       <description>ability noun əˈbɪləti
  ability is the skill or talent to do something an ability is a special skill or talent Ability is being able to do something. Ability is the fact that you can do something.  Root word: ability (noun) is a root form in the ability word family.
  Related roots: None
@@ -569,10 +569,10 @@ Related words: abilities (noun)</description>
     
     <item>
       <title>ablaze (adjective)</title>
-      <link>http://example.org/posts/ablaze_adjective/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/ablaze_adjective/</link>
       <pubDate>Sat, 16 Jan 2021 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/ablaze_adjective/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/ablaze_adjective/</guid>
       <description>ablaze adjective əˈbleɪz
  a building is ablaze when it is on fire and burning strongly burning or shining brightly  Root word: ablaze (adjective) is a root form in the ablaze word family.
  Related roots: None
@@ -583,10 +583,10 @@ Related words: None</description>
     
     <item>
       <title>able (adjective)</title>
-      <link>http://example.org/posts/able_adjective/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/able_adjective/</link>
       <pubDate>Fri, 15 Jan 2021 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/able_adjective/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/able_adjective/</guid>
       <description>able adjective ˈeɪbl
  having the power or skill or opportunity to do something having a special talent or skill skilful or clever If you are able to do something, you can do it.  Root word: able (adjective) is a root form in the able word family.
  Related roots: None
@@ -597,10 +597,10 @@ Related words: abler (adjective), ablest (adjective), ably (adverb)</description
     
     <item>
       <title>abler (adjective)</title>
-      <link>http://example.org/posts/abler_adjective/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/abler_adjective/</link>
       <pubDate>Thu, 14 Jan 2021 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/abler_adjective/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/abler_adjective/</guid>
       <description>abler adjective ˈeɪblə(r) abler is the comparative form of able
  having the power or skill or opportunity to do something having a special talent or skill skilful or clever If you are able to do something, you can do it.  Root word: able (adjective)
  Related roots: None
@@ -611,10 +611,10 @@ Related words: ablest (adjective), ably (adverb)</description>
     
     <item>
       <title>ablest (adjective)</title>
-      <link>http://example.org/posts/ablest_adjective/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/ablest_adjective/</link>
       <pubDate>Wed, 13 Jan 2021 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/ablest_adjective/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/ablest_adjective/</guid>
       <description>ablest adjective ˈeɪblɪst ablest is the superlative tense of able
  having the power or skill or opportunity to do something having a special talent or skill skilful or clever If you are able to do something, you can do it.  Root word: able (adjective)
  Related roots: None
@@ -625,10 +625,10 @@ Related words: abler (adjective), ably (adverb)</description>
     
     <item>
       <title>ably (adverb)</title>
-      <link>http://example.org/posts/ably_adverb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/ably_adverb/</link>
       <pubDate>Tue, 12 Jan 2021 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/ably_adverb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/ably_adverb/</guid>
       <description>ably adverb ˈeɪbli ably is a derivative of able
  to do something ably is to do it well and use skill or talent  Root word: able (adjective)
  Related roots: None
@@ -639,10 +639,10 @@ Related words: abler (adjective), ablest (adjective)</description>
     
     <item>
       <title>abnormal (adjective)</title>
-      <link>http://example.org/posts/abnormal_adjective/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/abnormal_adjective/</link>
       <pubDate>Mon, 11 Jan 2021 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/abnormal_adjective/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/abnormal_adjective/</guid>
       <description>abnormal adjective æbˈnɔːml
  unusual or peculiar, not normal not normal; unusual  Root word: abnormal (adjective) is a root form in the abnormal word family.
  Related roots: None
@@ -653,10 +653,10 @@ Related words: abnormality (noun), abnormally (adverb)</description>
     
     <item>
       <title>abnormality (noun)</title>
-      <link>http://example.org/posts/abnormality_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/abnormality_noun/</link>
       <pubDate>Sun, 10 Jan 2021 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/abnormality_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/abnormality_noun/</guid>
       <description>abnormality noun abnormality is a derivative of abnormal
  something unusual or abnormal  Root word: abnormal (adjective)
  Related roots: None
@@ -667,10 +667,10 @@ Related words: abnormally (adverb)</description>
     
     <item>
       <title>abnormally (adverb)</title>
-      <link>http://example.org/posts/abnormally_adverb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/abnormally_adverb/</link>
       <pubDate>Sat, 09 Jan 2021 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/abnormally_adverb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/abnormally_adverb/</guid>
       <description>abnormally adverb abnormally is a derivative of abnormal
  unusually  Root word: abnormal (adjective)
  Related roots: None
@@ -681,10 +681,10 @@ Related words: abnormality (noun)</description>
     
     <item>
       <title>aboard (adverb)</title>
-      <link>http://example.org/posts/aboard_adverb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/aboard_adverb/</link>
       <pubDate>Fri, 08 Jan 2021 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/aboard_adverb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/aboard_adverb/</guid>
       <description>aboard adverb əˈbɔːd
  someone is aboard when they have got on a train, ship or aircraft  Root word: aboard (adverb) is a root form in the aboard word family.
  Related roots: aboard (preposition)
@@ -695,10 +695,10 @@ Related words: None</description>
     
     <item>
       <title>aboard (preposition)</title>
-      <link>http://example.org/posts/aboard_preposition/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/aboard_preposition/</link>
       <pubDate>Thu, 07 Jan 2021 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/aboard_preposition/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/aboard_preposition/</guid>
       <description>aboard preposition əˈbɔːd
  someone is aboard when they have got on a train, ship or aircraft  Root word: aboard (preposition) is a root form in the aboard word family.
  Related roots: aboard (adverb)
@@ -709,10 +709,10 @@ Related words: None</description>
     
     <item>
       <title>abode (noun)</title>
-      <link>http://example.org/posts/abode_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/abode_noun/</link>
       <pubDate>Wed, 06 Jan 2021 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/abode_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/abode_noun/</guid>
       <description>abode noun əˈbəʊd
  a formal word for the place where someone lives  Root word: abode (noun) is a root form in the abode word family.
  Related roots: None
@@ -723,10 +723,10 @@ Related words: abodes (noun)</description>
     
     <item>
       <title>abode (verb)</title>
-      <link>http://example.org/posts/abode_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/abode_verb/</link>
       <pubDate>Tue, 05 Jan 2021 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/abode_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/abode_verb/</guid>
       <description>abode verb əˈbəʊd abode is an inflection of abide
  you cannot abide something or someone when you don&amp;rsquo;t like them at all to abide by a rule or promise is to keep to it  Root word: abide (verb)
  Related roots: None
@@ -737,10 +737,10 @@ Related words: abides (verb), abiding (verb), abided (verb)</description>
     
     <item>
       <title>abodes (noun)</title>
-      <link>http://example.org/posts/abodes_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/abodes_noun/</link>
       <pubDate>Mon, 04 Jan 2021 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/abodes_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/abodes_noun/</guid>
       <description>abodes noun abodes is the plural form of abode
  a formal word for the place where someone lives  Root word: abode (noun)
  Related roots: None
@@ -751,10 +751,10 @@ Related words: None</description>
     
     <item>
       <title>abolish (verb)</title>
-      <link>http://example.org/posts/abolish_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/abolish_verb/</link>
       <pubDate>Sun, 03 Jan 2021 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/abolish_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/abolish_verb/</guid>
       <description>abolish verb əˈbɒlɪʃ
  to abolish a rule or custom is to get rid of it to end a law, system, or custom  Etymology: from Latin abolere &amp;lsquo;to destroy&amp;rsquo;
 Root word: abolish (verb) is a root form in the abolish word family.
@@ -766,10 +766,10 @@ Related words: abolishes (verb), abolishing (verb), abolished (verb)</descriptio
     
     <item>
       <title>abolished (verb)</title>
-      <link>http://example.org/posts/abolished_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/abolished_verb/</link>
       <pubDate>Sat, 02 Jan 2021 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/abolished_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/abolished_verb/</guid>
       <description>abolished verb əˈbɒlɪʃt abolished is the past participle of abolish
  to abolish a rule or custom is to get rid of it to end a law, system, or custom  Etymology: from Latin abolere &amp;lsquo;to destroy&amp;rsquo;
 Root word: abolish (verb)
@@ -781,10 +781,10 @@ Related words: abolishes (verb), abolishing (verb)</description>
     
     <item>
       <title>abolishes (verb)</title>
-      <link>http://example.org/posts/abolishes_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/abolishes_verb/</link>
       <pubDate>Fri, 01 Jan 2021 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/abolishes_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/abolishes_verb/</guid>
       <description>abolishes verb əˈbɒlɪʃɪz abolishes is the third person present form of abolish
  to abolish a rule or custom is to get rid of it to end a law, system, or custom  Etymology: from Latin abolere &amp;lsquo;to destroy&amp;rsquo;
 Root word: abolish (verb)
@@ -796,10 +796,10 @@ Related words: abolishing (verb), abolished (verb)</description>
     
     <item>
       <title>abolishing (verb)</title>
-      <link>http://example.org/posts/abolishing_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/abolishing_verb/</link>
       <pubDate>Thu, 31 Dec 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/abolishing_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/abolishing_verb/</guid>
       <description>abolishing verb əˈbɒlɪʃɪŋ abolishing is the present continuous tense of abolish
  to abolish a rule or custom is to get rid of it to end a law, system, or custom  Etymology: from Latin abolere &amp;lsquo;to destroy&amp;rsquo;
 Root word: abolish (verb)
@@ -811,10 +811,10 @@ Related words: abolishes (verb), abolished (verb)</description>
     
     <item>
       <title>abolition (noun)</title>
-      <link>http://example.org/posts/abolition_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/abolition_noun/</link>
       <pubDate>Wed, 30 Dec 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/abolition_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/abolition_noun/</guid>
       <description>abolition noun ab-o-lish-on ˌæbəˈlɪʃn
  getting rid of something the ending of a law, system, or custom  Root word: abolition (noun) is a root form in the abolition word family.
  Related roots: None
@@ -825,10 +825,10 @@ Related words: abolitionist (noun)</description>
     
     <item>
       <title>abolitionist (noun)</title>
-      <link>http://example.org/posts/abolitionist_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/abolitionist_noun/</link>
       <pubDate>Tue, 29 Dec 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/abolitionist_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/abolitionist_noun/</guid>
       <description>abolitionist noun ˌæbəˈlɪʃənɪst abolitionist is a derivative of abolition
 Root word: abolition (noun)
  Related roots: None
@@ -839,10 +839,10 @@ Related words: None</description>
     
     <item>
       <title>abominable (adjective)</title>
-      <link>http://example.org/posts/abominable_adjective/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/abominable_adjective/</link>
       <pubDate>Mon, 28 Dec 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/abominable_adjective/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/abominable_adjective/</guid>
       <description>abominable adjective əˈbɒmɪnəbl
  very shocking, dreadful very bad or unpleasant very shocking and bad  Root word: abominable (adjective) is a root form in the abominable word family.
  Related roots: None
@@ -853,10 +853,10 @@ Related words: abominably (adverb)</description>
     
     <item>
       <title>Abominable Snowman (noun)</title>
-      <link>http://example.org/posts/Abominable-Snowman_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/Abominable-Snowman_noun/</link>
       <pubDate>Sun, 27 Dec 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/Abominable-Snowman_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/Abominable-Snowman_noun/</guid>
       <description>Abominable Snowman noun əˌbɒmɪnəbl ˈsnəʊmæn
  another name for yeti  Root word: Abominable Snowman (noun) is a root form in the Abominable Snowman word family.
  Related roots: None
@@ -867,10 +867,10 @@ Related words: Abominable Snowmen (noun)</description>
     
     <item>
       <title>Abominable Snowmen (noun)</title>
-      <link>http://example.org/posts/Abominable-Snowmen_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/Abominable-Snowmen_noun/</link>
       <pubDate>Sat, 26 Dec 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/Abominable-Snowmen_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/Abominable-Snowmen_noun/</guid>
       <description>Abominable Snowmen noun Abominable Snowmen is the plural form of Abominable Snowman
  another name for yeti  Root word: Abominable Snowman (noun)
  Related roots: None
@@ -881,10 +881,10 @@ Related words: None</description>
     
     <item>
       <title>abominably (adverb)</title>
-      <link>http://example.org/posts/abominably_adverb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/abominably_adverb/</link>
       <pubDate>Fri, 25 Dec 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/abominably_adverb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/abominably_adverb/</guid>
       <description>abominably adverb abominably is a derivative of abominable
 Root word: abominable (adjective)
  Related roots: None
@@ -895,10 +895,10 @@ Related words: None</description>
     
     <item>
       <title>Aboriginal (adjective)</title>
-      <link>http://example.org/posts/Aboriginal_adjective/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/Aboriginal_adjective/</link>
       <pubDate>Thu, 24 Dec 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/Aboriginal_adjective/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/Aboriginal_adjective/</guid>
       <description>Aboriginal adjective Aboriginal is a derivative of Aborigine
 Root word: Aborigine (noun)
  Related roots: None
@@ -909,10 +909,10 @@ Related words: Aborigines (noun)</description>
     
     <item>
       <title>aboriginal (noun)</title>
-      <link>http://example.org/posts/aboriginal_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/aboriginal_noun/</link>
       <pubDate>Wed, 23 Dec 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/aboriginal_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/aboriginal_noun/</guid>
       <description>aboriginal noun ˌæbəˈrɪdʒənl
  one of the original inhabitants of a country  Root word: aboriginal (noun) is a root form in the aboriginal word family.
  Related roots: None
@@ -923,10 +923,10 @@ Related words: None</description>
     
     <item>
       <title>Aborigine (noun)</title>
-      <link>http://example.org/posts/Aborigine_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/Aborigine_noun/</link>
       <pubDate>Tue, 22 Dec 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/Aborigine_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/Aborigine_noun/</guid>
       <description>Aborigine noun ab-er-ij-in-ee ab-er-rij-in-ee
  one of the people whose ancestors were living in Australia before European settlers arrived  Root word: Aborigine (noun) is a root form in the Aborigine word family.
  Related roots: None
@@ -937,10 +937,10 @@ Related words: Aborigines (noun), Aboriginal (adjective)</description>
     
     <item>
       <title>Aborigines (noun)</title>
-      <link>http://example.org/posts/Aborigines_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/Aborigines_noun/</link>
       <pubDate>Mon, 21 Dec 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/Aborigines_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/Aborigines_noun/</guid>
       <description>Aborigines noun Aborigines is the plural form of Aborigine
  one of the people whose ancestors were living in Australia before European settlers arrived  Root word: Aborigine (noun)
  Related roots: None
@@ -951,10 +951,10 @@ Related words: Aboriginal (adjective)</description>
     
     <item>
       <title>abort (verb)</title>
-      <link>http://example.org/posts/abort_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/abort_verb/</link>
       <pubDate>Sun, 20 Dec 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/abort_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/abort_verb/</guid>
       <description>abort verb əˈbɔːt
  to abort a plan or mission is to cancel it after it has begun to put an end to something before it has been completed  Etymology: from Latin aboriri &amp;lsquo;to miscarry&amp;rsquo;
 Root word: abort (verb) is a root form in the abort word family.
@@ -966,10 +966,10 @@ Related words: aborts (verb), aborting (verb), aborted (verb)</description>
     
     <item>
       <title>aborted (verb)</title>
-      <link>http://example.org/posts/aborted_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/aborted_verb/</link>
       <pubDate>Sat, 19 Dec 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/aborted_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/aborted_verb/</guid>
       <description>aborted verb əˈbɔːtɪd aborted is the past participle of abort
  to abort a plan or mission is to cancel it after it has begun to put an end to something before it has been completed  Etymology: from Latin aboriri &amp;lsquo;to miscarry&amp;rsquo;
 Root word: abort (verb)
@@ -981,10 +981,10 @@ Related words: aborts (verb), aborting (verb)</description>
     
     <item>
       <title>aborting (verb)</title>
-      <link>http://example.org/posts/aborting_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/aborting_verb/</link>
       <pubDate>Fri, 18 Dec 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/aborting_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/aborting_verb/</guid>
       <description>aborting verb əˈbɔːtɪŋ aborting is the present continuous tense of abort
  to abort a plan or mission is to cancel it after it has begun to put an end to something before it has been completed  Etymology: from Latin aboriri &amp;lsquo;to miscarry&amp;rsquo;
 Root word: abort (verb)
@@ -996,10 +996,10 @@ Related words: aborts (verb), aborted (verb)</description>
     
     <item>
       <title>aborts (verb)</title>
-      <link>http://example.org/posts/aborts_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/aborts_verb/</link>
       <pubDate>Thu, 17 Dec 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/aborts_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/aborts_verb/</guid>
       <description>aborts verb əˈbɔːts aborts is the third person present form of abort
  to abort a plan or mission is to cancel it after it has begun to put an end to something before it has been completed  Etymology: from Latin aboriri &amp;lsquo;to miscarry&amp;rsquo;
 Root word: abort (verb)
@@ -1011,10 +1011,10 @@ Related words: aborting (verb), aborted (verb)</description>
     
     <item>
       <title>abound (verb)</title>
-      <link>http://example.org/posts/abound_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/abound_verb/</link>
       <pubDate>Wed, 16 Dec 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/abound_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/abound_verb/</guid>
       <description>abound verb əˈbaʊnd
  things abound when there are a lot of them  Root word: abound (verb) is a root form in the abound word family.
  Related roots: None
@@ -1025,10 +1025,10 @@ Related words: abounds (verb), abounding (verb), abounded (verb)</description>
     
     <item>
       <title>abounded (verb)</title>
-      <link>http://example.org/posts/abounded_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/abounded_verb/</link>
       <pubDate>Tue, 15 Dec 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/abounded_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/abounded_verb/</guid>
       <description>abounded verb əˈbaʊndɪd abounded is the past participle of abound
  things abound when there are a lot of them  Root word: abound (verb)
  Related roots: None
@@ -1039,10 +1039,10 @@ Related words: abounds (verb), abounding (verb)</description>
     
     <item>
       <title>abounding (verb)</title>
-      <link>http://example.org/posts/abounding_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/abounding_verb/</link>
       <pubDate>Mon, 14 Dec 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/abounding_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/abounding_verb/</guid>
       <description>abounding verb əˈbaʊndɪŋ abounding is the present continuous tense of abound
  things abound when there are a lot of them  Root word: abound (verb)
  Related roots: None
@@ -1053,10 +1053,10 @@ Related words: abounds (verb), abounded (verb)</description>
     
     <item>
       <title>abounds (verb)</title>
-      <link>http://example.org/posts/abounds_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/abounds_verb/</link>
       <pubDate>Sun, 13 Dec 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/abounds_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/abounds_verb/</guid>
       <description>abounds verb əˈbaʊndz abounds is the third person present form of abound
  things abound when there are a lot of them  Root word: abound (verb)
  Related roots: None
@@ -1067,10 +1067,10 @@ Related words: abounding (verb), abounded (verb)</description>
     
     <item>
       <title>about (adverb)</title>
-      <link>http://example.org/posts/about_adverb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/about_adverb/</link>
       <pubDate>Sat, 12 Dec 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/about_adverb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/about_adverb/</guid>
       <description>about adverb əˈbaʊt
  in various directions or places somewhere near by approximately present somewhere; somewhere near  Etymology: from an Old English word butan &amp;lsquo;outside&amp;rsquo;
 Root word: about (adverb) is a root form in the about word family.
@@ -1082,10 +1082,10 @@ Related words: None</description>
     
     <item>
       <title>about (preposition)</title>
-      <link>http://example.org/posts/about_preposition/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/about_preposition/</link>
       <pubDate>Fri, 11 Dec 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/about_preposition/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/about_preposition/</guid>
       <description>about preposition əˈbaʊt
  to do with, connected with approximately, roughly in the region of; approximately on the subject of; concerning all around; in various places or directions  Etymology: from an Old English word butan &amp;lsquo;outside&amp;rsquo;
 Root word: about (preposition) is a root form in the about word family.
@@ -1097,10 +1097,10 @@ Related words: None</description>
     
     <item>
       <title>above (adverb)</title>
-      <link>http://example.org/posts/above_adverb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/above_adverb/</link>
       <pubDate>Thu, 10 Dec 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/above_adverb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/above_adverb/</guid>
       <description>above adverb əˈbʌv
  at a higher point, overhead higher up or earlier in a book or text  Root word: above (adverb) is a root form in the above word family.
  Related roots: above (preposition)
@@ -1111,10 +1111,10 @@ Related words: None</description>
     
     <item>
       <title>above (preposition)</title>
-      <link>http://example.org/posts/above_preposition/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/above_preposition/</link>
       <pubDate>Wed, 09 Dec 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/above_preposition/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/above_preposition/</guid>
       <description>above preposition əˈbʌv
  higher than, over more than in a position higher than  Root word: above (preposition) is a root form in the above word family.
  Related roots: above (adverb)
@@ -1125,10 +1125,10 @@ Related words: None</description>
     
     <item>
       <title>abracadabra (exclamation)</title>
-      <link>http://example.org/posts/abracadabra_exclamation/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/abracadabra_exclamation/</link>
       <pubDate>Tue, 08 Dec 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/abracadabra_exclamation/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/abracadabra_exclamation/</guid>
       <description>abracadabra exclamation ˌæbrəkəˈdæbrə
  a word that people say when they are doing magic tricks  Root word: abracadabra (exclamation) is a root form in the abracadabra word family.
  Related roots: None
@@ -1139,10 +1139,10 @@ Related words: None</description>
     
     <item>
       <title>abrasive (adjective)</title>
-      <link>http://example.org/posts/abrasive_adjective/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/abrasive_adjective/</link>
       <pubDate>Mon, 07 Dec 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/abrasive_adjective/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/abrasive_adjective/</guid>
       <description>abrasive adjective əˈbreɪsɪv
  an abrasive material is rough and is used to clean or scrape something hard Something abrasive rubs or scrapes things. An abrasive manner is harsh or hurtful.  Root word: abrasive (adjective) is a root form in the abrasive word family.
  Related roots: None
@@ -1153,10 +1153,10 @@ Related words: None</description>
     
     <item>
       <title>abreast (adverb)</title>
-      <link>http://example.org/posts/abreast_adverb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/abreast_adverb/</link>
       <pubDate>Sun, 06 Dec 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/abreast_adverb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/abreast_adverb/</guid>
       <description>abreast adverb əˈbrest
  side by side  Root word: abreast (adverb) is a root form in the abreast word family.
  Related roots: None
@@ -1167,10 +1167,10 @@ Related words: None</description>
     
     <item>
       <title>abroad (adverb)</title>
-      <link>http://example.org/posts/abroad_adverb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/abroad_adverb/</link>
       <pubDate>Sat, 05 Dec 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/abroad_adverb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/abroad_adverb/</guid>
       <description>abroad adverb əˈbrɔːd
  in a foreign country in or to another country outside, outdoors  Root word: abroad (adverb) is a root form in the abroad word family.
  Related roots: None
@@ -1181,10 +1181,10 @@ Related words: None</description>
     
     <item>
       <title>abrupt (adjective)</title>
-      <link>http://example.org/posts/abrupt_adjective/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/abrupt_adjective/</link>
       <pubDate>Fri, 04 Dec 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/abrupt_adjective/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/abrupt_adjective/</guid>
       <description>abrupt adjective əˈbrʌpt
  sudden and unexpected rude and unfriendly sudden or hasty  Etymology: from Latin abruptus &amp;lsquo;broken off&amp;rsquo; or &amp;lsquo;steep&amp;rsquo;
 Root word: abrupt (adjective) is a root form in the abrupt word family.
@@ -1196,10 +1196,10 @@ Related words: abruptly (adverb)</description>
     
     <item>
       <title>abruptly (adverb)</title>
-      <link>http://example.org/posts/abruptly_adverb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/abruptly_adverb/</link>
       <pubDate>Thu, 03 Dec 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/abruptly_adverb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/abruptly_adverb/</guid>
       <description>abruptly adverb abruptly is a derivative of abrupt
 Root word: abrupt (adjective)
  Related roots: None
@@ -1210,10 +1210,10 @@ Related words: None</description>
     
     <item>
       <title>abscess (noun)</title>
-      <link>http://example.org/posts/abscess_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/abscess_noun/</link>
       <pubDate>Wed, 02 Dec 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/abscess_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/abscess_noun/</guid>
       <description>abscess noun ˈæbses
  a painful swelling on the body containing pus an inflamed area where pus has formed in the body  Root word: abscess (noun) is a root form in the abscess word family.
  Related roots: None
@@ -1224,10 +1224,10 @@ Related words: abscesses (noun)</description>
     
     <item>
       <title>abscesses (noun)</title>
-      <link>http://example.org/posts/abscesses_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/abscesses_noun/</link>
       <pubDate>Tue, 01 Dec 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/abscesses_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/abscesses_noun/</guid>
       <description>abscesses noun abscesses is the plural form of abscess
  a painful swelling on the body containing pus an inflamed area where pus has formed in the body  Root word: abscess (noun)
  Related roots: None
@@ -1238,10 +1238,10 @@ Related words: None</description>
     
     <item>
       <title>abseil (verb)</title>
-      <link>http://example.org/posts/abseil_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/abseil_verb/</link>
       <pubDate>Mon, 30 Nov 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/abseil_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/abseil_verb/</guid>
       <description>abseil verb ˈæbseɪl
  to abseil is to lower yourself down a steep cliff or rock by sliding down a rope  Etymology: from German, from ab &amp;lsquo;down&amp;rsquo; and Seil &amp;lsquo;rope&amp;rsquo;
 Root word: abseil (verb) is a root form in the abseil word family.
@@ -1253,10 +1253,10 @@ Related words: abseils (verb), abseiling (verb), abseiled (verb)</description>
     
     <item>
       <title>abseiled (verb)</title>
-      <link>http://example.org/posts/abseiled_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/abseiled_verb/</link>
       <pubDate>Sun, 29 Nov 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/abseiled_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/abseiled_verb/</guid>
       <description>abseiled verb ˈæbseɪld abseiled is the past participle of abseil
  to abseil is to lower yourself down a steep cliff or rock by sliding down a rope  Etymology: from German, from ab &amp;lsquo;down&amp;rsquo; and Seil &amp;lsquo;rope&amp;rsquo;
 Root word: abseil (verb)
@@ -1268,10 +1268,10 @@ Related words: abseils (verb), abseiling (verb)</description>
     
     <item>
       <title>abseiling (verb)</title>
-      <link>http://example.org/posts/abseiling_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/abseiling_verb/</link>
       <pubDate>Sat, 28 Nov 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/abseiling_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/abseiling_verb/</guid>
       <description>abseiling verb ˈæbseɪlɪŋ abseiling is the present continuous tense of abseil
  to abseil is to lower yourself down a steep cliff or rock by sliding down a rope  Etymology: from German, from ab &amp;lsquo;down&amp;rsquo; and Seil &amp;lsquo;rope&amp;rsquo;
 Root word: abseil (verb)
@@ -1283,10 +1283,10 @@ Related words: abseils (verb), abseiled (verb)</description>
     
     <item>
       <title>abseils (verb)</title>
-      <link>http://example.org/posts/abseils_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/abseils_verb/</link>
       <pubDate>Fri, 27 Nov 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/abseils_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/abseils_verb/</guid>
       <description>abseils verb ˈæbseɪlz abseils is the third person present form of abseil
  to abseil is to lower yourself down a steep cliff or rock by sliding down a rope  Etymology: from German, from ab &amp;lsquo;down&amp;rsquo; and Seil &amp;lsquo;rope&amp;rsquo;
 Root word: abseil (verb)
@@ -1298,10 +1298,10 @@ Related words: abseiling (verb), abseiled (verb)</description>
     
     <item>
       <title>absence (noun)</title>
-      <link>http://example.org/posts/absence_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/absence_noun/</link>
       <pubDate>Wed, 25 Nov 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/absence_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/absence_noun/</guid>
       <description>absence noun ˈæbsəns absence is a derivative of absent
 Root word: absent (adjective)
  Related roots: absent (verb)
@@ -1312,10 +1312,10 @@ Related words: None</description>
     
     <item>
       <title>absences (noun)</title>
-      <link>http://example.org/posts/absences_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/absences_noun/</link>
       <pubDate>Tue, 24 Nov 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/absences_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/absences_noun/</guid>
       <description>absences noun absences is the plural form of absence
  not being in a place where you are expected, for example school or work  Root word: absence (noun)
  Related roots: None
@@ -1326,10 +1326,10 @@ Related words: None</description>
     
     <item>
       <title>absent (adjective)</title>
-      <link>http://example.org/posts/absent_adjective/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/absent_adjective/</link>
       <pubDate>Mon, 23 Nov 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/absent_adjective/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/absent_adjective/</guid>
       <description>absent adjective ab-sent æbˈsent OR ˈæbsənt
  not present away  Etymology: from Latin absens, from abesse &amp;lsquo;to be away&amp;rsquo;
 Root word: absent (adjective) is a root form in the absent word family.
@@ -1341,10 +1341,10 @@ Related words: absence (noun)</description>
     
     <item>
       <title>absent (verb)</title>
-      <link>http://example.org/posts/absent_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/absent_verb/</link>
       <pubDate>Sun, 22 Nov 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/absent_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/absent_verb/</guid>
       <description>absent verb ab-sent æbˈsent OR ˈæbsənt
 Root word: absent (verb) is a root form in the absent word family.
  Related roots: absent (adjective)
@@ -1355,10 +1355,10 @@ Related words: absents (verb), absenting (verb), absented (verb)</description>
     
     <item>
       <title>absented (verb)</title>
-      <link>http://example.org/posts/absented_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/absented_verb/</link>
       <pubDate>Sat, 21 Nov 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/absented_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/absented_verb/</guid>
       <description>absented verb æbˈsentɪd absented is the past participle of absent
 Root word: absent (verb)
  Related roots: absent (adjective)
@@ -1369,10 +1369,10 @@ Related words: absents (verb), absenting (verb)</description>
     
     <item>
       <title>absentee (noun)</title>
-      <link>http://example.org/posts/absentee_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/absentee_noun/</link>
       <pubDate>Fri, 20 Nov 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/absentee_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/absentee_noun/</guid>
       <description>absentee noun ˌæbsənˈtiː
  someone who is away, for example not at school or work a person who is not present when they are expected to be  Root word: absentee (noun) is a root form in the absentee word family.
  Related roots: None
@@ -1383,10 +1383,10 @@ Related words: absentees (noun), absenteeism (noun)</description>
     
     <item>
       <title>absenteeism (noun)</title>
-      <link>http://example.org/posts/absenteeism_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/absenteeism_noun/</link>
       <pubDate>Thu, 19 Nov 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/absenteeism_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/absenteeism_noun/</guid>
       <description>absenteeism noun ˌæbsənˈtiːɪzəm absenteeism is a derivative of absentee
 Root word: absentee (noun)
  Related roots: None
@@ -1397,10 +1397,10 @@ Related words: absentees (noun)</description>
     
     <item>
       <title>absentees (noun)</title>
-      <link>http://example.org/posts/absentees_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/absentees_noun/</link>
       <pubDate>Wed, 18 Nov 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/absentees_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/absentees_noun/</guid>
       <description>absentees noun absentees is the plural form of absentee
  someone who is away, for example not at school or work a person who is not present when they are expected to be  Root word: absentee (noun)
  Related roots: None
@@ -1411,10 +1411,10 @@ Related words: absenteeism (noun)</description>
     
     <item>
       <title>absenting (verb)</title>
-      <link>http://example.org/posts/absenting_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/absenting_verb/</link>
       <pubDate>Tue, 17 Nov 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/absenting_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/absenting_verb/</guid>
       <description>absenting verb æbˈsentɪŋ absenting is the present continuous tense of absent
 Root word: absent (verb)
  Related roots: absent (adjective)
@@ -1425,10 +1425,10 @@ Related words: absents (verb), absented (verb)</description>
     
     <item>
       <title>absent-minded (adjective)</title>
-      <link>http://example.org/posts/absent-minded_adjective/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/absent-minded_adjective/</link>
       <pubDate>Mon, 16 Nov 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/absent-minded_adjective/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/absent-minded_adjective/</guid>
       <description>absent-minded adjective ˌæbsənt ˈmaɪndɪd
  forgetting things easily having your mind on other things; forgetful forgetting things or not thinking about what you are doing  Root word: absent-minded (adjective) is a root form in the absent-minded word family.
  Related roots: None
@@ -1439,10 +1439,10 @@ Related words: absent-mindedly (adverb)</description>
     
     <item>
       <title>absent-mindedly (adverb)</title>
-      <link>http://example.org/posts/absent-mindedly_adverb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/absent-mindedly_adverb/</link>
       <pubDate>Sun, 15 Nov 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/absent-mindedly_adverb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/absent-mindedly_adverb/</guid>
       <description>absent-mindedly adverb absent-mindedly is a derivative of absent-minded
  to do something absent-mindedly is to do it without thinking about it much  Root word: absent-minded (adjective)
  Related roots: None
@@ -1453,10 +1453,10 @@ Related words: None</description>
     
     <item>
       <title>absents (verb)</title>
-      <link>http://example.org/posts/absents_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/absents_verb/</link>
       <pubDate>Sat, 14 Nov 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/absents_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/absents_verb/</guid>
       <description>absents verb æbˈsents absents is the third person present form of absent
 Root word: absent (verb)
  Related roots: absent (adjective)
@@ -1467,10 +1467,10 @@ Related words: absenting (verb), absented (verb)</description>
     
     <item>
       <title>absolute (adjective)</title>
-      <link>http://example.org/posts/absolute_adjective/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/absolute_adjective/</link>
       <pubDate>Fri, 13 Nov 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/absolute_adjective/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/absolute_adjective/</guid>
       <description>absolute adjective ˈæbsəluːt
  total, complete, not restricted  Root word: absolute (adjective) is a root form in the absolute word family.
  Related roots: None
@@ -1481,10 +1481,10 @@ Related words: None</description>
     
     <item>
       <title>absolutely (adverb)</title>
-      <link>http://example.org/posts/absolutely_adverb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/absolutely_adverb/</link>
       <pubDate>Thu, 12 Nov 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/absolutely_adverb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/absolutely_adverb/</guid>
       <description>absolutely adverb ˈæbsəluːtli OR ˌæbsəˈluːtli
  completely definitely used for agreeing with what someone has said  Root word: absolutely (adverb) is a root form in the absolutely word family.
  Related roots: None
@@ -1495,10 +1495,10 @@ Related words: None</description>
     
     <item>
       <title>absorb (verb)</title>
-      <link>http://example.org/posts/absorb_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/absorb_verb/</link>
       <pubDate>Wed, 11 Nov 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/absorb_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/absorb_verb/</guid>
       <description>absorb verb əbˈzɔːb
  to absorb something like liquid is to soak it up to be absorbed in something is to be interested in it and give it all your attention to soak up a liquid or gas To absorb a shock or impact is to reduce its effects. to take up a person&amp;rsquo;s attention or time  Etymology: from Latin absorbere &amp;lsquo;to suck in&amp;rsquo;
 Root word: absorb (verb) is a root form in the absorb word family.</description>
@@ -1508,10 +1508,10 @@ Root word: absorb (verb) is a root form in the absorb word family.</description>
     
     <item>
       <title>absorbed (adjective)</title>
-      <link>http://example.org/posts/absorbed_adjective/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/absorbed_adjective/</link>
       <pubDate>Tue, 10 Nov 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/absorbed_adjective/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/absorbed_adjective/</guid>
       <description>absorbed adjective əbˈzɔːbd
  very interested in something and giving it all your attention  Root word: absorbed (adjective) is a root form in the absorbed word family.
  Related roots: None
@@ -1522,10 +1522,10 @@ Related words: None</description>
     
     <item>
       <title>absorbed (verb)</title>
-      <link>http://example.org/posts/absorbed_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/absorbed_verb/</link>
       <pubDate>Mon, 09 Nov 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/absorbed_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/absorbed_verb/</guid>
       <description>absorbed verb əbˈzɔːbd absorbed is the past participle of absorb
  to absorb something like liquid is to soak it up to be absorbed in something is to be interested in it and give it all your attention to soak up a liquid or gas To absorb a shock or impact is to reduce its effects. to take up a person&amp;rsquo;s attention or time  Etymology: from Latin absorbere &amp;lsquo;to suck in&amp;rsquo;</description>
     </item>
@@ -1534,10 +1534,10 @@ Related words: None</description>
     
     <item>
       <title>absorbent (adjective)</title>
-      <link>http://example.org/posts/absorbent_adjective/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/absorbent_adjective/</link>
       <pubDate>Sun, 08 Nov 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/absorbent_adjective/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/absorbent_adjective/</guid>
       <description>absorbent adjective əbˈzɔːbənt
  an absorbent material soaks up liquid easily An absorbent substance or material is able to soak up liquids easily.  Root word: absorbent (adjective) is a root form in the absorbent word family.
  Related roots: None
@@ -1548,10 +1548,10 @@ Related words: None</description>
     
     <item>
       <title>absorbing (verb)</title>
-      <link>http://example.org/posts/absorbing_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/absorbing_verb/</link>
       <pubDate>Sat, 07 Nov 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/absorbing_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/absorbing_verb/</guid>
       <description>absorbing verb əbˈzɔːbɪŋ absorbing is the present continuous tense of absorb
  to absorb something like liquid is to soak it up to be absorbed in something is to be interested in it and give it all your attention to soak up a liquid or gas To absorb a shock or impact is to reduce its effects. to take up a person&amp;rsquo;s attention or time  Etymology: from Latin absorbere &amp;lsquo;to suck in&amp;rsquo;</description>
     </item>
@@ -1560,10 +1560,10 @@ Related words: None</description>
     
     <item>
       <title>absorbs (verb)</title>
-      <link>http://example.org/posts/absorbs_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/absorbs_verb/</link>
       <pubDate>Fri, 06 Nov 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/absorbs_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/absorbs_verb/</guid>
       <description>absorbs verb əbˈzɔːbz absorbs is the third person present form of absorb
  to absorb something like liquid is to soak it up to be absorbed in something is to be interested in it and give it all your attention to soak up a liquid or gas To absorb a shock or impact is to reduce its effects. to take up a person&amp;rsquo;s attention or time  Etymology: from Latin absorbere &amp;lsquo;to suck in&amp;rsquo;</description>
     </item>
@@ -1572,10 +1572,10 @@ Related words: None</description>
     
     <item>
       <title>absorption (noun)</title>
-      <link>http://example.org/posts/absorption_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/absorption_noun/</link>
       <pubDate>Wed, 04 Nov 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/absorption_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/absorption_noun/</guid>
       <description>absorption noun əbˈzɔːpʃn
  Absorption is the soaking up of a liquid or gas Absorption is being very interested in something you are doing, so that you ignore everything else.  Root word: absorption (noun) is a root form in the absorption word family.
  Related roots: None
@@ -1586,10 +1586,10 @@ Related words: None</description>
     
     <item>
       <title>abstract (adjective)</title>
-      <link>http://example.org/posts/abstract_adjective/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/abstract_adjective/</link>
       <pubDate>Tue, 03 Nov 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/abstract_adjective/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/abstract_adjective/</guid>
       <description>abstract adjective ab-strakt ab-stract æbˈstrækt OR ˈæbstrækt
  to do with ideas and not with physical things concerned with ideas, not real objects An abstract painting or sculpture shows the artist&amp;rsquo;s ideas or feelings rather than depicting a recognizable person or thing.  Etymology: from Latinabstrahere&amp;rsquo;to draw off&#39;, related to our wordtractor
 Root word: abstract (adjective) is a root form in the abstract word family.
@@ -1600,10 +1600,10 @@ Root word: abstract (adjective) is a root form in the abstract word family.
     
     <item>
       <title>abstract (noun)</title>
-      <link>http://example.org/posts/abstract_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/abstract_noun/</link>
       <pubDate>Mon, 02 Nov 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/abstract_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/abstract_noun/</guid>
       <description>abstract noun ab-stract æbˈstrækt OR ˈæbstrækt
  a summary  Root word: abstract (noun) is a root form in the abstract word family.
  Related roots: abstract (adjective), abstract (verb)
@@ -1614,10 +1614,10 @@ Related words: abstracts (noun)</description>
     
     <item>
       <title>abstract (verb)</title>
-      <link>http://example.org/posts/abstract_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/abstract_verb/</link>
       <pubDate>Sun, 01 Nov 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/abstract_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/abstract_verb/</guid>
       <description>abstract verb ab-stract æbˈstrækt OR ˈæbstrækt
  to take something out or remove it  Root word: abstract (verb) is a root form in the abstract word family.
  Related roots: abstract (adjective), abstract (noun)
@@ -1628,10 +1628,10 @@ Related words: abstracts (verb), abstracting (verb), abstracted (verb), abstract
     
     <item>
       <title>abstracted (verb)</title>
-      <link>http://example.org/posts/abstracted_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/abstracted_verb/</link>
       <pubDate>Sat, 31 Oct 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/abstracted_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/abstracted_verb/</guid>
       <description>abstracted verb æbˈstræktɪd abstracted is the past participle of abstract
  to take something out or remove it  Root word: abstract (verb)
  Related roots: abstract (adjective), abstract (noun)
@@ -1642,10 +1642,10 @@ Related words: abstracts (verb), abstracting (verb), abstraction (noun)</descrip
     
     <item>
       <title>abstracting (verb)</title>
-      <link>http://example.org/posts/abstracting_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/abstracting_verb/</link>
       <pubDate>Fri, 30 Oct 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/abstracting_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/abstracting_verb/</guid>
       <description>abstracting verb æbˈstræktɪŋ abstracting is the present continuous tense of abstract
  to take something out or remove it  Root word: abstract (verb)
  Related roots: abstract (adjective), abstract (noun)
@@ -1656,10 +1656,10 @@ Related words: abstracts (verb), abstracted (verb), abstraction (noun)</descript
     
     <item>
       <title>abstraction (noun)</title>
-      <link>http://example.org/posts/abstraction_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/abstraction_noun/</link>
       <pubDate>Thu, 29 Oct 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/abstraction_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/abstraction_noun/</guid>
       <description>abstraction noun æbˈstrækʃn abstraction is a derivative of abstract
 Root word: abstract (verb)
  Related roots: abstract (adjective), abstract (noun)
@@ -1670,10 +1670,10 @@ Related words: abstracts (verb), abstracting (verb), abstracted (verb)</descript
     
     <item>
       <title>abstracts (noun)</title>
-      <link>http://example.org/posts/abstracts_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/abstracts_noun/</link>
       <pubDate>Wed, 28 Oct 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/abstracts_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/abstracts_noun/</guid>
       <description>abstracts noun æbˈstrækts abstracts is the plural form of abstract
  a summary  Root word: abstract (noun)
  Related roots: abstract (adjective), abstract (verb)
@@ -1684,10 +1684,10 @@ Related words: None</description>
     
     <item>
       <title>abstracts (verb)</title>
-      <link>http://example.org/posts/abstracts_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/abstracts_verb/</link>
       <pubDate>Tue, 27 Oct 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/abstracts_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/abstracts_verb/</guid>
       <description>abstracts verb æbˈstrækts abstracts is the third person present form of abstract
  to take something out or remove it  Root word: abstract (verb)
  Related roots: abstract (adjective), abstract (noun)
@@ -1698,10 +1698,10 @@ Related words: abstracting (verb), abstracted (verb), abstraction (noun)</descri
     
     <item>
       <title>absurd (adjective)</title>
-      <link>http://example.org/posts/absurd_adjective/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/absurd_adjective/</link>
       <pubDate>Mon, 26 Oct 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/absurd_adjective/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/absurd_adjective/</guid>
       <description>absurd adjective əbˈsɜːd
  silly or ridiculous ridiculous or foolish  Etymology: from Latin absurdus &amp;lsquo;out of tune&amp;rsquo;, related to surdus &amp;lsquo;deaf&amp;rsquo;
 Root word: absurd (adjective) is a root form in the absurd word family.
@@ -1713,10 +1713,10 @@ Related words: absurdly (adverb), absurdity (noun)</description>
     
     <item>
       <title>absurdities (noun)</title>
-      <link>http://example.org/posts/absurdities_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/absurdities_noun/</link>
       <pubDate>Sun, 25 Oct 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/absurdities_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/absurdities_noun/</guid>
       <description>absurdities noun əbˈsɜːdətiz absurdities is the plural form of absurdity
  something that is silly or ridiculous  Root word: absurdity (noun)
  Related roots: None
@@ -1727,10 +1727,10 @@ Related words: None</description>
     
     <item>
       <title>absurdity (noun)</title>
-      <link>http://example.org/posts/absurdity_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/absurdity_noun/</link>
       <pubDate>Fri, 23 Oct 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/absurdity_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/absurdity_noun/</guid>
       <description>absurdity noun əbˈsɜːdəti absurdity is a derivative of absurd
 Root word: absurd (adjective)
  Related roots: None
@@ -1741,10 +1741,10 @@ Related words: absurdly (adverb)</description>
     
     <item>
       <title>absurdly (adverb)</title>
-      <link>http://example.org/posts/absurdly_adverb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/absurdly_adverb/</link>
       <pubDate>Thu, 22 Oct 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/absurdly_adverb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/absurdly_adverb/</guid>
       <description>absurdly adverb absurdly is a derivative of absurd
 Root word: absurd (adjective)
  Related roots: None
@@ -1755,10 +1755,10 @@ Related words: absurdity (noun)</description>
     
     <item>
       <title>abundance (noun)</title>
-      <link>http://example.org/posts/abundance_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/abundance_noun/</link>
       <pubDate>Wed, 21 Oct 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/abundance_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/abundance_noun/</guid>
       <description>abundance noun əˈbʌndəns
  a large amount, plenty  Root word: abundance (noun) is a root form in the abundance word family.
  Related roots: None
@@ -1769,10 +1769,10 @@ Related words: None</description>
     
     <item>
       <title>abundant (adjective)</title>
-      <link>http://example.org/posts/abundant_adjective/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/abundant_adjective/</link>
       <pubDate>Tue, 20 Oct 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/abundant_adjective/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/abundant_adjective/</guid>
       <description>abundant adjective əˈbʌndənt
  large in amount, plentiful Things are abundant when there are plenty of them.  Root word: abundant (adjective) is a root form in the abundant word family.
  Related roots: None
@@ -1783,10 +1783,10 @@ Related words: abundantly (adverb)</description>
     
     <item>
       <title>abundantly (adverb)</title>
-      <link>http://example.org/posts/abundantly_adverb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/abundantly_adverb/</link>
       <pubDate>Mon, 19 Oct 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/abundantly_adverb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/abundantly_adverb/</guid>
       <description>abundantly adverb abundantly is a derivative of abundant
 Root word: abundant (adjective)
  Related roots: None
@@ -1797,10 +1797,10 @@ Related words: None</description>
     
     <item>
       <title>abuse (noun)</title>
-      <link>http://example.org/posts/abuse_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/abuse_noun/</link>
       <pubDate>Sun, 18 Oct 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/abuse_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/abuse_noun/</guid>
       <description>abuse noun a-bewss əˈbjuːz OR əˈbjuːs
  treating something badly unpleasant words said about someone physical harm or cruelty done to someone a misuse of something words that offend or insult a person bad or cruel treatment insulting or unpleasant things said to someone  Root word: abuse (noun) is a root form in the abuse word family.
  Related roots: abuse (verb)
@@ -1811,10 +1811,10 @@ Related words: abuses (noun)</description>
     
     <item>
       <title>abuse (verb)</title>
-      <link>http://example.org/posts/abuse_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/abuse_verb/</link>
       <pubDate>Sat, 17 Oct 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/abuse_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/abuse_verb/</guid>
       <description>abuse verb a-bewz əˈbjuːz OR əˈbjuːs
  to abuse something is to treat it badly and harm it to abuse someone is to say unpleasant things about them to abuse someone also means to hurt them or treat them cruelly to use something badly or wrongly; to misuse something to say unpleasant things about a person or thing  Root word: abuse (verb) is a root form in the abuse word family.</description>
     </item>
@@ -1823,10 +1823,10 @@ Related words: abuses (noun)</description>
     
     <item>
       <title>abused (verb)</title>
-      <link>http://example.org/posts/abused_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/abused_verb/</link>
       <pubDate>Fri, 16 Oct 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/abused_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/abused_verb/</guid>
       <description>abused verb əˈbjuːzd abused is the past participle of abuse
  to abuse something is to treat it badly and harm it to abuse someone is to say unpleasant things about them to abuse someone also means to hurt them or treat them cruelly to use something badly or wrongly; to misuse something to say unpleasant things about a person or thing  Root word: abuse (verb)
  Related roots: abuse (noun)</description>
@@ -1836,10 +1836,10 @@ Related words: abuses (noun)</description>
     
     <item>
       <title>abuses (noun)</title>
-      <link>http://example.org/posts/abuses_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/abuses_noun/</link>
       <pubDate>Thu, 15 Oct 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/abuses_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/abuses_noun/</guid>
       <description>abuses noun əˈbjuːzɪz abuses is the plural form of abuse
  treating something badly unpleasant words said about someone physical harm or cruelty done to someone a misuse of something words that offend or insult a person bad or cruel treatment insulting or unpleasant things said to someone  Root word: abuse (noun)
  Related roots: abuse (verb)
@@ -1850,10 +1850,10 @@ Related words: None</description>
     
     <item>
       <title>abuses (verb)</title>
-      <link>http://example.org/posts/abuses_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/abuses_verb/</link>
       <pubDate>Wed, 14 Oct 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/abuses_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/abuses_verb/</guid>
       <description>abuses verb əˈbjuːzɪz abuses is the third person present form of abuse
  to abuse something is to treat it badly and harm it to abuse someone is to say unpleasant things about them to abuse someone also means to hurt them or treat them cruelly to use something badly or wrongly; to misuse something to say unpleasant things about a person or thing  Root word: abuse (verb)
  Related roots: abuse (noun)</description>
@@ -1863,10 +1863,10 @@ Related words: None</description>
     
     <item>
       <title>abusing (verb)</title>
-      <link>http://example.org/posts/abusing_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/abusing_verb/</link>
       <pubDate>Tue, 13 Oct 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/abusing_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/abusing_verb/</guid>
       <description>abusing verb əˈbjuːzɪŋ abusing is the present continuous tense of abuse
  to abuse something is to treat it badly and harm it to abuse someone is to say unpleasant things about them to abuse someone also means to hurt them or treat them cruelly to use something badly or wrongly; to misuse something to say unpleasant things about a person or thing  Root word: abuse (verb)
  Related roots: abuse (noun)</description>
@@ -1876,10 +1876,10 @@ Related words: None</description>
     
     <item>
       <title>abusive (adjective)</title>
-      <link>http://example.org/posts/abusive_adjective/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/abusive_adjective/</link>
       <pubDate>Mon, 12 Oct 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/abusive_adjective/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/abusive_adjective/</guid>
       <description>abusive adjective əˈbjuːsɪv
  saying unpleasant things about someone rude and insulting  Root word: abusive (adjective) is a root form in the abusive word family.
  Related roots: None
@@ -1890,10 +1890,10 @@ Related words: None</description>
     
     <item>
       <title>abysmal (adjective)</title>
-      <link>http://example.org/posts/abysmal_adjective/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/abysmal_adjective/</link>
       <pubDate>Sun, 11 Oct 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/abysmal_adjective/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/abysmal_adjective/</guid>
       <description>abysmal adjective əˈbɪzməl
  very bad extremely bad  Root word: abysmal (adjective) is a root form in the abysmal word family.
  Related roots: None
@@ -1904,10 +1904,10 @@ Related words: abysmally (adverb)</description>
     
     <item>
       <title>abysmally (adverb)</title>
-      <link>http://example.org/posts/abysmally_adverb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/abysmally_adverb/</link>
       <pubDate>Sat, 10 Oct 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/abysmally_adverb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/abysmally_adverb/</guid>
       <description>abysmally adverb abysmally is a derivative of abysmal
  very badly  Root word: abysmal (adjective)
  Related roots: None
@@ -1918,10 +1918,10 @@ Related words: None</description>
     
     <item>
       <title>abyss (noun)</title>
-      <link>http://example.org/posts/abyss_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/abyss_noun/</link>
       <pubDate>Fri, 09 Oct 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/abyss_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/abyss_noun/</guid>
       <description>abyss noun ab-iss əˈbɪs
  a deep dark hole that seems to go on forever an extremely deep pit  Etymology: from Greek abyssos &amp;lsquo;bottomless&amp;rsquo;
 Root word: abyss (noun) is a root form in the abyss word family.
@@ -1933,10 +1933,10 @@ Related words: abysses (noun)</description>
     
     <item>
       <title>abysses (noun)</title>
-      <link>http://example.org/posts/abysses_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/abysses_noun/</link>
       <pubDate>Thu, 08 Oct 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/abysses_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/abysses_noun/</guid>
       <description>abysses noun abysses is the plural form of abyss
  a deep dark hole that seems to go on forever an extremely deep pit  Etymology: from Greek abyssos &amp;lsquo;bottomless&amp;rsquo;
 Root word: abyss (noun)
@@ -1948,10 +1948,10 @@ Related words: None</description>
     
     <item>
       <title>academic (adjective)</title>
-      <link>http://example.org/posts/academic_adjective/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/academic_adjective/</link>
       <pubDate>Wed, 07 Oct 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/academic_adjective/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/academic_adjective/</guid>
       <description>academic adjective ˌækəˈdemɪk
  to do with learning in a school or university theoretical; having no practical use  Root word: academic (adjective) is a root form in the academic word family.
  Related roots: academic (noun)
@@ -1962,10 +1962,10 @@ Related words: None</description>
     
     <item>
       <title>academic (noun)</title>
-      <link>http://example.org/posts/academic_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/academic_noun/</link>
       <pubDate>Tue, 06 Oct 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/academic_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/academic_noun/</guid>
       <description>academic noun ˌækəˈdemɪk
  a university or college teacher  Root word: academic (noun) is a root form in the academic word family.
  Related roots: academic (adjective)
@@ -1976,10 +1976,10 @@ Related words: academics (noun)</description>
     
     <item>
       <title>academics (noun)</title>
-      <link>http://example.org/posts/academics_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/academics_noun/</link>
       <pubDate>Mon, 05 Oct 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/academics_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/academics_noun/</guid>
       <description>academics noun academics is the plural form of academic
  a university or college teacher  Root word: academic (noun)
  Related roots: academic (adjective)
@@ -1990,10 +1990,10 @@ Related words: None</description>
     
     <item>
       <title>academies (noun)</title>
-      <link>http://example.org/posts/academies_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/academies_noun/</link>
       <pubDate>Sun, 04 Oct 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/academies_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/academies_noun/</guid>
       <description>academies noun əˈkædəmiz academies is the plural form of academy
  a college or school a society of scholars or scientists who meet to discuss their work  Etymology: fromAkademeia, the name of a garden near Athens, where the Greek philosopher Plato taught his pupils. It was named after the legendary hero Academus.
 Root word: academy (noun)
@@ -2005,10 +2005,10 @@ Related words: None</description>
     
     <item>
       <title>academy (noun)</title>
-      <link>http://example.org/posts/academy_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/academy_noun/</link>
       <pubDate>Sat, 03 Oct 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/academy_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/academy_noun/</guid>
       <description>academy noun əˈkædəmi
  a college or school a society of scholars or scientists who meet to discuss their work  Etymology: fromAkademeia, the name of a garden near Athens, where the Greek philosopher Plato taught his pupils. It was named after the legendary hero Academus.
 Root word: academy (noun) is a root form in the academy word family.
@@ -2020,10 +2020,10 @@ Related words: academies (noun)</description>
     
     <item>
       <title>accelerate (verb)</title>
-      <link>http://example.org/posts/accelerate_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/accelerate_verb/</link>
       <pubDate>Fri, 02 Oct 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/accelerate_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/accelerate_verb/</guid>
       <description>accelerate verb əkˈseləreɪt
  to accelerate is to go faster to start to go or drive faster to make something happen more quickly  Etymology: from Latin celer &amp;lsquo;swift&amp;rsquo;
 Root word: accelerate (verb) is a root form in the accelerate word family.
@@ -2035,10 +2035,10 @@ Related words: accelerates (verb), accelerating (verb), accelerated (verb), acce
     
     <item>
       <title>accelerated (verb)</title>
-      <link>http://example.org/posts/accelerated_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/accelerated_verb/</link>
       <pubDate>Thu, 01 Oct 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/accelerated_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/accelerated_verb/</guid>
       <description>accelerated verb əkˈseləreɪtɪd accelerated is the past participle of accelerate
  to accelerate is to go faster to start to go or drive faster to make something happen more quickly  Etymology: from Latin celer &amp;lsquo;swift&amp;rsquo;
 Root word: accelerate (verb)
@@ -2050,10 +2050,10 @@ Related words: accelerates (verb), accelerating (verb), acceleration (noun)</des
     
     <item>
       <title>accelerates (verb)</title>
-      <link>http://example.org/posts/accelerates_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/accelerates_verb/</link>
       <pubDate>Wed, 30 Sep 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/accelerates_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/accelerates_verb/</guid>
       <description>accelerates verb əkˈseləreɪts accelerates is the third person present form of accelerate
  to accelerate is to go faster to start to go or drive faster to make something happen more quickly  Etymology: from Latin celer &amp;lsquo;swift&amp;rsquo;
 Root word: accelerate (verb)
@@ -2065,10 +2065,10 @@ Related words: accelerating (verb), accelerated (verb), acceleration (noun)</des
     
     <item>
       <title>accelerating (verb)</title>
-      <link>http://example.org/posts/accelerating_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/accelerating_verb/</link>
       <pubDate>Tue, 29 Sep 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/accelerating_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/accelerating_verb/</guid>
       <description>accelerating verb əkˈseləreɪtɪŋ accelerating is the present continuous tense of accelerate
  to accelerate is to go faster to start to go or drive faster to make something happen more quickly  Etymology: from Latin celer &amp;lsquo;swift&amp;rsquo;
 Root word: accelerate (verb)
@@ -2080,10 +2080,10 @@ Related words: accelerates (verb), accelerated (verb), acceleration (noun)</desc
     
     <item>
       <title>acceleration (noun)</title>
-      <link>http://example.org/posts/acceleration_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/acceleration_noun/</link>
       <pubDate>Sun, 27 Sep 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/acceleration_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/acceleration_noun/</guid>
       <description>acceleration noun əkˌseləˈreɪʃn acceleration is a derivative of accelerate
 Root word: accelerate (verb)
  Related roots: None
@@ -2094,10 +2094,10 @@ Related words: accelerates (verb), accelerating (verb), accelerated (verb)</desc
     
     <item>
       <title>accelerations (noun)</title>
-      <link>http://example.org/posts/accelerations_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/accelerations_noun/</link>
       <pubDate>Sat, 26 Sep 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/accelerations_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/accelerations_noun/</guid>
       <description>accelerations noun accelerations is the plural form of acceleration
  the rate at which the speed of something increases the rate of change of velocity  Root word: acceleration (noun)
  Related roots: None
@@ -2108,10 +2108,10 @@ Related words: None</description>
     
     <item>
       <title>accelerator (noun)</title>
-      <link>http://example.org/posts/accelerator_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/accelerator_noun/</link>
       <pubDate>Fri, 25 Sep 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/accelerator_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/accelerator_noun/</guid>
       <description>accelerator noun əkˈseləreɪtə(r)
  a pedal that you press down to make a motor vehicle go faster a machine for making charged particles move very quickly  Root word: accelerator (noun) is a root form in the accelerator word family.
  Related roots: None
@@ -2122,10 +2122,10 @@ Related words: accelerators (noun)</description>
     
     <item>
       <title>accelerators (noun)</title>
-      <link>http://example.org/posts/accelerators_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/accelerators_noun/</link>
       <pubDate>Thu, 24 Sep 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/accelerators_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/accelerators_noun/</guid>
       <description>accelerators noun accelerators is the plural form of accelerator
  a pedal that you press down to make a motor vehicle go faster a machine for making charged particles move very quickly  Root word: accelerator (noun)
  Related roots: None
@@ -2136,10 +2136,10 @@ Related words: None</description>
     
     <item>
       <title>accent (noun)</title>
-      <link>http://example.org/posts/accent_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/accent_noun/</link>
       <pubDate>Wed, 23 Sep 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/accent_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/accent_noun/</guid>
       <description>accent noun ak-sent ækˈsent OR ˈæksent OR ˈæksənt
  an accent is the way that people from a particular area pronounce words the accent in a word is the part you speak more strongly than the rest of it an accent is a special mark put over a letter in a foreign word, to show its pronunciation the way a person pronounces the words of a language the emphasis or stress used in pronouncing a word a mark placed over a letter to show how it is pronounced, e.</description>
     </item>
@@ -2148,10 +2148,10 @@ Related words: None</description>
     
     <item>
       <title>accent (verb)</title>
-      <link>http://example.org/posts/accent_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/accent_verb/</link>
       <pubDate>Tue, 22 Sep 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/accent_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/accent_verb/</guid>
       <description>accent verb ak-sent ækˈsent OR ˈæksent OR ˈæksənt
  to accent part of a word is to speak it more strongly than the rest of it  Root word: accent (verb) is a root form in the accent word family.
  Related roots: accent (noun)
@@ -2162,10 +2162,10 @@ Related words: accents (verb), accenting (verb), accented (verb)</description>
     
     <item>
       <title>accented (verb)</title>
-      <link>http://example.org/posts/accented_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/accented_verb/</link>
       <pubDate>Mon, 21 Sep 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/accented_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/accented_verb/</guid>
       <description>accented verb ˈæksentɪd accented is the past participle of accent
  to accent part of a word is to speak it more strongly than the rest of it  Root word: accent (verb)
  Related roots: accent (noun)
@@ -2176,10 +2176,10 @@ Related words: accents (verb), accenting (verb)</description>
     
     <item>
       <title>accenting (verb)</title>
-      <link>http://example.org/posts/accenting_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/accenting_verb/</link>
       <pubDate>Sun, 20 Sep 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/accenting_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/accenting_verb/</guid>
       <description>accenting verb ækˈsentɪŋ accenting is the present continuous tense of accent
  to accent part of a word is to speak it more strongly than the rest of it  Root word: accent (verb)
  Related roots: accent (noun)
@@ -2190,10 +2190,10 @@ Related words: accents (verb), accented (verb)</description>
     
     <item>
       <title>accents (noun)</title>
-      <link>http://example.org/posts/accents_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/accents_noun/</link>
       <pubDate>Sat, 19 Sep 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/accents_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/accents_noun/</guid>
       <description>accents noun ækˈsents accents is the plural form of accent
  an accent is the way that people from a particular area pronounce words the accent in a word is the part you speak more strongly than the rest of it an accent is a special mark put over a letter in a foreign word, to show its pronunciation the way a person pronounces the words of a language the emphasis or stress used in pronouncing a word a mark placed over a letter to show how it is pronounced, e.</description>
     </item>
@@ -2202,10 +2202,10 @@ Related words: accents (verb), accented (verb)</description>
     
     <item>
       <title>accents (verb)</title>
-      <link>http://example.org/posts/accents_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/accents_verb/</link>
       <pubDate>Fri, 18 Sep 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/accents_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/accents_verb/</guid>
       <description>accents verb ækˈsents accents is the third person present form of accent
  to accent part of a word is to speak it more strongly than the rest of it  Root word: accent (verb)
  Related roots: accent (noun)
@@ -2216,10 +2216,10 @@ Related words: accenting (verb), accented (verb)</description>
     
     <item>
       <title>accept (verb)</title>
-      <link>http://example.org/posts/accept_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/accept_verb/</link>
       <pubDate>Thu, 17 Sep 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/accept_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/accept_verb/</guid>
       <description>accept verb əkˈsept
  to accept something is to take it when someone offers it to you to accept an invitation is to say &amp;lsquo;yes&amp;rsquo; to it to accept an idea or suggestion is to agree that it is true or worth thinking about to take a thing that is offered or presented to you to say yes to an invitation or offer to take or say yes to something that someone offers you To accept a fact or situation means to agree or realise that it exists.</description>
     </item>
@@ -2228,10 +2228,10 @@ Related words: accenting (verb), accented (verb)</description>
     
     <item>
       <title>acceptable (adjective)</title>
-      <link>http://example.org/posts/acceptable_adjective/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/acceptable_adjective/</link>
       <pubDate>Wed, 16 Sep 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/acceptable_adjective/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/acceptable_adjective/</guid>
       <description>acceptable adjective əkˈseptəbl
  good enough to accept all right, satisfactory  Root word: acceptable (adjective) is a root form in the acceptable word family.
  Related roots: None
@@ -2242,10 +2242,10 @@ Related words: acceptably (adverb)</description>
     
     <item>
       <title>acceptably (adverb)</title>
-      <link>http://example.org/posts/acceptably_adverb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/acceptably_adverb/</link>
       <pubDate>Tue, 15 Sep 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/acceptably_adverb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/acceptably_adverb/</guid>
       <description>acceptably adverb acceptably is a derivative of acceptable
 Root word: acceptable (adjective)
  Related roots: None
@@ -2256,10 +2256,10 @@ Related words: None</description>
     
     <item>
       <title>acceptance (noun)</title>
-      <link>http://example.org/posts/acceptance_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/acceptance_noun/</link>
       <pubDate>Sun, 13 Sep 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/acceptance_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/acceptance_noun/</guid>
       <description>acceptance noun əkˈseptəns acceptance is a derivative of accept
 Root word: accept (verb)
  Related roots: None
@@ -2270,10 +2270,10 @@ Related words: accepts (verb), accepting (verb), accepted (verb)</description>
     
     <item>
       <title>accepted (verb)</title>
-      <link>http://example.org/posts/accepted_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/accepted_verb/</link>
       <pubDate>Sat, 12 Sep 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/accepted_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/accepted_verb/</guid>
       <description>accepted verb əkˈseptɪd accepted is the past participle of accept
  to accept something is to take it when someone offers it to you to accept an invitation is to say &amp;lsquo;yes&amp;rsquo; to it to accept an idea or suggestion is to agree that it is true or worth thinking about to take a thing that is offered or presented to you to say yes to an invitation or offer to take or say yes to something that someone offers you To accept a fact or situation means to agree or realise that it exists.</description>
     </item>
@@ -2282,10 +2282,10 @@ Related words: accepts (verb), accepting (verb), accepted (verb)</description>
     
     <item>
       <title>accepting (verb)</title>
-      <link>http://example.org/posts/accepting_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/accepting_verb/</link>
       <pubDate>Fri, 11 Sep 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/accepting_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/accepting_verb/</guid>
       <description>accepting verb əkˈseptɪŋ accepting is the present continuous tense of accept
  to accept something is to take it when someone offers it to you to accept an invitation is to say &amp;lsquo;yes&amp;rsquo; to it to accept an idea or suggestion is to agree that it is true or worth thinking about to take a thing that is offered or presented to you to say yes to an invitation or offer to take or say yes to something that someone offers you To accept a fact or situation means to agree or realise that it exists.</description>
     </item>
@@ -2294,10 +2294,10 @@ Related words: accepts (verb), accepting (verb), accepted (verb)</description>
     
     <item>
       <title>accepts (verb)</title>
-      <link>http://example.org/posts/accepts_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/accepts_verb/</link>
       <pubDate>Thu, 10 Sep 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/accepts_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/accepts_verb/</guid>
       <description>accepts verb əkˈsepts accepts is the third person present form of accept
  to accept something is to take it when someone offers it to you to accept an invitation is to say &amp;lsquo;yes&amp;rsquo; to it to accept an idea or suggestion is to agree that it is true or worth thinking about to take a thing that is offered or presented to you to say yes to an invitation or offer to take or say yes to something that someone offers you To accept a fact or situation means to agree or realise that it exists.</description>
     </item>
@@ -2306,10 +2306,10 @@ Related words: accepts (verb), accepting (verb), accepted (verb)</description>
     
     <item>
       <title>access (noun)</title>
-      <link>http://example.org/posts/access_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/access_noun/</link>
       <pubDate>Wed, 09 Sep 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/access_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/access_noun/</guid>
       <description>access noun ˈækses
  a way to reach a place the right or opportunity to reach or use something  Root word: access (noun) is a root form in the access word family.
  Related roots: access (verb)
@@ -2320,10 +2320,10 @@ Related words: accesses (noun)</description>
     
     <item>
       <title>access (verb)</title>
-      <link>http://example.org/posts/access_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/access_verb/</link>
       <pubDate>Tue, 08 Sep 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/access_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/access_verb/</guid>
       <description>access verb ˈækses
  to access a computer file is to find and be able to use it to see or use information on a computer to be able to reach or use something to approach or enter a place  Root word: access (verb) is a root form in the access word family.
  Related roots: access (noun)
@@ -2334,10 +2334,10 @@ Related words: accesses (verb), accessing (verb), accessed (verb)</description>
     
     <item>
       <title>accessed (verb)</title>
-      <link>http://example.org/posts/accessed_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/accessed_verb/</link>
       <pubDate>Mon, 07 Sep 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/accessed_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/accessed_verb/</guid>
       <description>accessed verb ˈæksest accessed is the past participle of access
  to access a computer file is to find and be able to use it to see or use information on a computer to be able to reach or use something to approach or enter a place  Root word: access (verb)
  Related roots: access (noun)
@@ -2348,10 +2348,10 @@ Related words: accesses (verb), accessing (verb)</description>
     
     <item>
       <title>accesses (noun)</title>
-      <link>http://example.org/posts/accesses_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/accesses_noun/</link>
       <pubDate>Sun, 06 Sep 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/accesses_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/accesses_noun/</guid>
       <description>accesses noun ˈæksesɪz accesses is the plural form of access
  a way to reach a place  Root word: access (noun)
  Related roots: access (verb)
@@ -2362,10 +2362,10 @@ Related words: None</description>
     
     <item>
       <title>accesses (verb)</title>
-      <link>http://example.org/posts/accesses_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/accesses_verb/</link>
       <pubDate>Sat, 05 Sep 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/accesses_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/accesses_verb/</guid>
       <description>accesses verb ˈæksesɪz accesses is the third person present form of access
  to access a computer file is to find and be able to use it to see or use information on a computer to be able to reach or use something to approach or enter a place  Root word: access (verb)
  Related roots: access (noun)
@@ -2376,10 +2376,10 @@ Related words: accessing (verb), accessed (verb)</description>
     
     <item>
       <title>accessibility (noun)</title>
-      <link>http://example.org/posts/accessibility_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/accessibility_noun/</link>
       <pubDate>Fri, 04 Sep 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/accessibility_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/accessibility_noun/</guid>
       <description>accessibility noun accessibility is a derivative of accessible
 Root word: accessible (adjective)
  Related roots: None
@@ -2390,10 +2390,10 @@ Related words: None</description>
     
     <item>
       <title>accessible (adjective)</title>
-      <link>http://example.org/posts/accessible_adjective/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/accessible_adjective/</link>
       <pubDate>Thu, 03 Sep 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/accessible_adjective/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/accessible_adjective/</guid>
       <description>accessible adjective əkˈsesəbl
  easy to reach or approach able to be reached or used easily A person who is accessible is friendly and easy to talk to.  Root word: accessible (adjective) is a root form in the accessible word family.
  Related roots: None
@@ -2404,10 +2404,10 @@ Related words: accessibility (noun)</description>
     
     <item>
       <title>accessing (verb)</title>
-      <link>http://example.org/posts/accessing_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/accessing_verb/</link>
       <pubDate>Wed, 02 Sep 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/accessing_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/accessing_verb/</guid>
       <description>accessing verb ˈæksesɪŋ accessing is the present continuous tense of access
  to access a computer file is to find and be able to use it to see or use information on a computer to be able to reach or use something to approach or enter a place  Root word: access (verb)
  Related roots: access (noun)
@@ -2418,10 +2418,10 @@ Related words: accesses (verb), accessed (verb)</description>
     
     <item>
       <title>accession (noun)</title>
-      <link>http://example.org/posts/accession_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/accession_noun/</link>
       <pubDate>Tue, 01 Sep 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/accession_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/accession_noun/</guid>
       <description>accession noun əkˈseʃn
  the time when a new king or queen begins ruling the act of reaching a rank or position, especially becoming queen or king an accession to a library is a new book that it has bought  Root word: accession (noun) is a root form in the accession word family.
  Related roots: None
@@ -2432,10 +2432,10 @@ Related words: accessions (noun)</description>
     
     <item>
       <title>accessions (noun)</title>
-      <link>http://example.org/posts/accessions_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/accessions_noun/</link>
       <pubDate>Mon, 31 Aug 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/accessions_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/accessions_noun/</guid>
       <description>accessions noun accessions is the plural form of accession
  the time when a new king or queen begins ruling the act of reaching a rank or position, especially becoming queen or king an accession to a library is a new book that it has bought  Root word: accession (noun)
  Related roots: None
@@ -2446,10 +2446,10 @@ Related words: None</description>
     
     <item>
       <title>accessories (noun)</title>
-      <link>http://example.org/posts/accessories_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/accessories_noun/</link>
       <pubDate>Sun, 30 Aug 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/accessories_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/accessories_noun/</guid>
       <description>accessories noun əkˈsesəriz accessories is the plural form of accessory
  an extra or spare part that goes with something bigger an item like a piece of jewellery or a handbag that goes with clothes a thing which can be added to something else to make it more useful or attractive a person who helps someone else to commit a crime, without actually taking part in it  Root word: accessory (noun)</description>
     </item>
@@ -2458,10 +2458,10 @@ Related words: None</description>
     
     <item>
       <title>accessory (noun)</title>
-      <link>http://example.org/posts/accessory_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/accessory_noun/</link>
       <pubDate>Sat, 29 Aug 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/accessory_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/accessory_noun/</guid>
       <description>accessory noun əkˈsesəri
  an extra or spare part that goes with something bigger an item like a piece of jewellery or a handbag that goes with clothes a thing which can be added to something else to make it more useful or attractive a person who helps someone else to commit a crime, without actually taking part in it  Root word: accessory (noun) is a root form in the accessory word family.</description>
     </item>
@@ -2470,10 +2470,10 @@ Related words: None</description>
     
     <item>
       <title>accident (noun)</title>
-      <link>http://example.org/posts/accident_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/accident_noun/</link>
       <pubDate>Fri, 28 Aug 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/accident_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/accident_noun/</guid>
       <description>accident noun ˈæksɪdənt
  something unexpected that happens, especially when something is broken, or someone is hurt or killed an unexpected happening, especially one causing injury or damage  Etymology: from Latin accidere &amp;lsquo;to happen&amp;rsquo;
 Root word: accident (noun) is a root form in the accident word family.
@@ -2485,10 +2485,10 @@ Related words: accidents (noun)</description>
     
     <item>
       <title>accidental (adjective)</title>
-      <link>http://example.org/posts/accidental_adjective/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/accidental_adjective/</link>
       <pubDate>Thu, 27 Aug 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/accidental_adjective/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/accidental_adjective/</guid>
       <description>accidental adjective ˌæksɪˈdentl
  something is accidental when it happens by chance and not because someone wants it to happen happening or done by accident happening by chance and not because it was intended  Root word: accidental (adjective) is a root form in the accidental word family.
  Related roots: None
@@ -2499,10 +2499,10 @@ Related words: accidentally (adverb)</description>
     
     <item>
       <title>accidentally (adverb)</title>
-      <link>http://example.org/posts/accidentally_adverb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/accidentally_adverb/</link>
       <pubDate>Wed, 26 Aug 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/accidentally_adverb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/accidentally_adverb/</guid>
       <description>accidentally adverb ˌæksɪˈdentəli accidentally is a derivative of accidental
  to do something accidentally is to do it by mistake or without meaning to  Root word: accidental (adjective)
  Related roots: None
@@ -2513,10 +2513,10 @@ Related words: None</description>
     
     <item>
       <title>accidents (noun)</title>
-      <link>http://example.org/posts/accidents_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/accidents_noun/</link>
       <pubDate>Tue, 25 Aug 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/accidents_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/accidents_noun/</guid>
       <description>accidents noun accidents is the plural form of accident
  something unexpected that happens, especially when something is broken, or someone is hurt or killed an unexpected happening, especially one causing injury or damage  Etymology: from Latin accidere &amp;lsquo;to happen&amp;rsquo;
 Root word: accident (noun)
@@ -2528,10 +2528,10 @@ Related words: None</description>
     
     <item>
       <title>acclaim (noun)</title>
-      <link>http://example.org/posts/acclaim_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/acclaim_noun/</link>
       <pubDate>Mon, 24 Aug 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/acclaim_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/acclaim_noun/</guid>
       <description>acclaim noun əˈkleɪm
  public or official praise for someone or something  Root word: acclaim (noun) is a root form in the acclaim word family.
  Related roots: acclaim (verb)
@@ -2542,10 +2542,10 @@ Related words: None</description>
     
     <item>
       <title>acclaim (verb)</title>
-      <link>http://example.org/posts/acclaim_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/acclaim_verb/</link>
       <pubDate>Sun, 23 Aug 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/acclaim_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/acclaim_verb/</guid>
       <description>acclaim verb əˈkleɪm
  to acclaim someone is to welcome or praise them warmly to praise someone or something publicly or officially  Etymology: from Latin clamare &amp;lsquo;to shout&amp;rsquo;
 Root word: acclaim (verb) is a root form in the acclaim word family.
@@ -2557,10 +2557,10 @@ Related words: acclaims (verb), acclaiming (verb), acclaimed (verb), acclamation
     
     <item>
       <title>acclaimed (verb)</title>
-      <link>http://example.org/posts/acclaimed_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/acclaimed_verb/</link>
       <pubDate>Sat, 22 Aug 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/acclaimed_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/acclaimed_verb/</guid>
       <description>acclaimed verb əˈkleɪmd acclaimed is the past participle of acclaim
  to acclaim someone is to welcome or praise them warmly to praise someone or something publicly or officially  Etymology: from Latin clamare &amp;lsquo;to shout&amp;rsquo;
 Root word: acclaim (verb)
@@ -2572,10 +2572,10 @@ Related words: acclaims (verb), acclaiming (verb), acclamation (noun)</descripti
     
     <item>
       <title>acclaiming (verb)</title>
-      <link>http://example.org/posts/acclaiming_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/acclaiming_verb/</link>
       <pubDate>Fri, 21 Aug 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/acclaiming_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/acclaiming_verb/</guid>
       <description>acclaiming verb əˈkleɪmɪŋ acclaiming is the present continuous tense of acclaim
  to acclaim someone is to welcome or praise them warmly to praise someone or something publicly or officially  Etymology: from Latin clamare &amp;lsquo;to shout&amp;rsquo;
 Root word: acclaim (verb)
@@ -2587,10 +2587,10 @@ Related words: acclaims (verb), acclaimed (verb), acclamation (noun)</descriptio
     
     <item>
       <title>acclaims (verb)</title>
-      <link>http://example.org/posts/acclaims_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/acclaims_verb/</link>
       <pubDate>Thu, 20 Aug 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/acclaims_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/acclaims_verb/</guid>
       <description>acclaims verb əˈkleɪmz acclaims is the third person present form of acclaim
  to acclaim someone is to welcome or praise them warmly to praise someone or something publicly or officially  Etymology: from Latin clamare &amp;lsquo;to shout&amp;rsquo;
 Root word: acclaim (verb)
@@ -2602,10 +2602,10 @@ Related words: acclaiming (verb), acclaimed (verb), acclamation (noun)</descript
     
     <item>
       <title>acclamation (noun)</title>
-      <link>http://example.org/posts/acclamation_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/acclamation_noun/</link>
       <pubDate>Wed, 19 Aug 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/acclamation_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/acclamation_noun/</guid>
       <description>acclamation noun ˌækləˈmeɪʃn acclamation is a derivative of acclaim
 Root word: acclaim (verb)
  Related roots: acclaim (noun)
@@ -2616,10 +2616,10 @@ Related words: acclaims (verb), acclaiming (verb), acclaimed (verb)</description
     
     <item>
       <title>accommodate (verb)</title>
-      <link>http://example.org/posts/accommodate_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/accommodate_verb/</link>
       <pubDate>Tue, 18 Aug 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/accommodate_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/accommodate_verb/</guid>
       <description>accommodate verb əˈkɒmədeɪt
  to accommodate someone or something is to provide them with a place to stay to accommodate someone also means to do what you can to please them to provide somebody with a place to live, work, or sleep overnight to help someone by providing them with what they need to provide a place big enough for someone to sit, sleep, etc.  Root word: accommodate (verb) is a root form in the accommodate word family.</description>
     </item>
@@ -2628,10 +2628,10 @@ Related words: acclaims (verb), acclaiming (verb), acclaimed (verb)</description
     
     <item>
       <title>accommodated (verb)</title>
-      <link>http://example.org/posts/accommodated_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/accommodated_verb/</link>
       <pubDate>Mon, 17 Aug 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/accommodated_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/accommodated_verb/</guid>
       <description>accommodated verb əˈkɒmədeɪtɪd accommodated is the past participle of accommodate
  to accommodate someone or something is to provide them with a place to stay to accommodate someone also means to do what you can to please them to provide somebody with a place to live, work, or sleep overnight to help someone by providing them with what they need  Root word: accommodate (verb)
  Related roots: None
@@ -2642,10 +2642,10 @@ Related words: accommodates (verb), accommodating (verb)</description>
     
     <item>
       <title>accommodates (verb)</title>
-      <link>http://example.org/posts/accommodates_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/accommodates_verb/</link>
       <pubDate>Sun, 16 Aug 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/accommodates_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/accommodates_verb/</guid>
       <description>accommodates verb əˈkɒmədeɪts accommodates is the third person present form of accommodate
  to accommodate someone or something is to provide them with a place to stay to accommodate someone also means to do what you can to please them to provide somebody with a place to live, work, or sleep overnight to help someone by providing them with what they need  Root word: accommodate (verb)
  Related roots: None</description>
@@ -2655,10 +2655,10 @@ Related words: accommodates (verb), accommodating (verb)</description>
     
     <item>
       <title>accommodating (adjective)</title>
-      <link>http://example.org/posts/accommodating_adjective/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/accommodating_adjective/</link>
       <pubDate>Sat, 15 Aug 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/accommodating_adjective/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/accommodating_adjective/</guid>
       <description>accommodating adjective əˈkɒmədeɪtɪŋ
  willing to help or cooperate  Root word: accommodating (adjective) is a root form in the accommodating word family.
  Related roots: None
@@ -2669,10 +2669,10 @@ Related words: None</description>
     
     <item>
       <title>accommodating (verb)</title>
-      <link>http://example.org/posts/accommodating_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/accommodating_verb/</link>
       <pubDate>Fri, 14 Aug 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/accommodating_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/accommodating_verb/</guid>
       <description>accommodating verb əˈkɒmədeɪtɪŋ accommodating is the present continuous tense of accommodate
  to accommodate someone or something is to provide them with a place to stay to accommodate someone also means to do what you can to please them to provide somebody with a place to live, work, or sleep overnight to help someone by providing them with what they need  Root word: accommodate (verb)
  Related roots: None</description>
@@ -2682,10 +2682,10 @@ Related words: None</description>
     
     <item>
       <title>accommodation (noun)</title>
-      <link>http://example.org/posts/accommodation_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/accommodation_noun/</link>
       <pubDate>Thu, 13 Aug 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/accommodation_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/accommodation_noun/</guid>
       <description>accommodation noun əˌkɒməˈdeɪʃn
  accommodation is a place to live or stay somewhere to live, work, or sleep overnight  Root word: accommodation (noun) is a root form in the accommodation word family.
  Related roots: None
@@ -2696,10 +2696,10 @@ Related words: None</description>
     
     <item>
       <title>accompanied (verb)</title>
-      <link>http://example.org/posts/accompanied_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/accompanied_verb/</link>
       <pubDate>Wed, 12 Aug 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/accompanied_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/accompanied_verb/</guid>
       <description>accompanied verb əˈkʌmpənid accompanied is the past participle of accompany
  to accompany someone is to go somewhere with them to accompany a singer is to play the piano or another instrument while they sing to go with somebody to a place to happen or belong together with something else to play music, usually on a piano, to support a singer or another musician  Root word: accompany (verb)
  Related roots: None</description>
@@ -2709,10 +2709,10 @@ Related words: None</description>
     
     <item>
       <title>accompanies (verb)</title>
-      <link>http://example.org/posts/accompanies_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/accompanies_verb/</link>
       <pubDate>Tue, 11 Aug 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/accompanies_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/accompanies_verb/</guid>
       <description>accompanies verb əˈkʌmpəniz accompanies is the third person present form of accompany
  to accompany someone is to go somewhere with them to accompany a singer is to play the piano or another instrument while they sing to go with somebody to a place to happen or belong together with something else to play music, usually on a piano, to support a singer or another musician  Root word: accompany (verb)</description>
     </item>
@@ -2721,10 +2721,10 @@ Related words: None</description>
     
     <item>
       <title>accompaniment (noun)</title>
-      <link>http://example.org/posts/accompaniment_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/accompaniment_noun/</link>
       <pubDate>Mon, 10 Aug 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/accompaniment_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/accompaniment_noun/</guid>
       <description>accompaniment noun əˈkʌmpənimənt
  the music played on a piano or another instrument while a singer sings a musical part that supports a singer or instrument  Root word: accompaniment (noun) is a root form in the accompaniment word family.
  Related roots: None
@@ -2735,10 +2735,10 @@ Related words: accompaniments (noun)</description>
     
     <item>
       <title>accompaniments (noun)</title>
-      <link>http://example.org/posts/accompaniments_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/accompaniments_noun/</link>
       <pubDate>Sun, 09 Aug 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/accompaniments_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/accompaniments_noun/</guid>
       <description>accompaniments noun accompaniments is the plural form of accompaniment
  the music played on a piano or another instrument while a singer sings  Root word: accompaniment (noun)
  Related roots: None
@@ -2749,10 +2749,10 @@ Related words: None</description>
     
     <item>
       <title>accompanist (noun)</title>
-      <link>http://example.org/posts/accompanist_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/accompanist_noun/</link>
       <pubDate>Sat, 08 Aug 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/accompanist_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/accompanist_noun/</guid>
       <description>accompanist noun əˈkʌmpənɪst
  a person who plays the piano or another instrument while a singer sings a pianist or other musician who plays music to support a singer or another musician  Root word: accompanist (noun) is a root form in the accompanist word family.
  Related roots: None
@@ -2763,10 +2763,10 @@ Related words: accompanists (noun)</description>
     
     <item>
       <title>accompanists (noun)</title>
-      <link>http://example.org/posts/accompanists_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/accompanists_noun/</link>
       <pubDate>Fri, 07 Aug 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/accompanists_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/accompanists_noun/</guid>
       <description>accompanists noun accompanists is the plural form of accompanist
  a person who plays the piano or another instrument while a singer sings a pianist or other musician who plays music to support a singer or another musician  Root word: accompanist (noun)
  Related roots: None
@@ -2777,10 +2777,10 @@ Related words: None</description>
     
     <item>
       <title>accompany (verb)</title>
-      <link>http://example.org/posts/accompany_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/accompany_verb/</link>
       <pubDate>Thu, 06 Aug 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/accompany_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/accompany_verb/</guid>
       <description>accompany verb əˈkʌmpəni
  to accompany someone is to go somewhere with them to accompany a singer is to play the piano or another instrument while they sing to go with somebody to a place to happen or belong together with something else to play music, usually on a piano, to support a singer or another musician  Root word: accompany (verb) is a root form in the accompany word family.</description>
     </item>
@@ -2789,10 +2789,10 @@ Related words: None</description>
     
     <item>
       <title>accompanying (verb)</title>
-      <link>http://example.org/posts/accompanying_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/accompanying_verb/</link>
       <pubDate>Wed, 05 Aug 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/accompanying_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/accompanying_verb/</guid>
       <description>accompanying verb əˈkʌmpəniɪŋ accompanying is the present continuous tense of accompany
  to accompany someone is to go somewhere with them to accompany a singer is to play the piano or another instrument while they sing to go with somebody to a place to happen or belong together with something else to play music, usually on a piano, to support a singer or another musician  Root word: accompany (verb)</description>
     </item>
@@ -2801,10 +2801,10 @@ Related words: None</description>
     
     <item>
       <title>accomplish (verb)</title>
-      <link>http://example.org/posts/accomplish_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/accomplish_verb/</link>
       <pubDate>Tue, 04 Aug 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/accomplish_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/accomplish_verb/</guid>
       <description>accomplish verb əˈkʌmplɪʃ
  to accomplish something is to do it successfully to do something completely and successfully  Etymology: from Latin complere &amp;lsquo;to complete&amp;rsquo;
 Root word: accomplish (verb) is a root form in the accomplish word family.
@@ -2816,10 +2816,10 @@ Related words: accomplishes (verb), accomplishing (verb), accomplished (verb), a
     
     <item>
       <title>accomplished (adjective)</title>
-      <link>http://example.org/posts/accomplished_adjective/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/accomplished_adjective/</link>
       <pubDate>Mon, 03 Aug 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/accomplished_adjective/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/accomplished_adjective/</guid>
       <description>accomplished adjective əˈkʌmplɪʃt
  good at doing something, skilful skilled or talented  Root word: accomplished (adjective) is a root form in the accomplished word family.
  Related roots: None
@@ -2830,10 +2830,10 @@ Related words: None</description>
     
     <item>
       <title>accomplished (verb)</title>
-      <link>http://example.org/posts/accomplished_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/accomplished_verb/</link>
       <pubDate>Sun, 02 Aug 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/accomplished_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/accomplished_verb/</guid>
       <description>accomplished verb əˈkʌmplɪʃt accomplished is the past participle of accomplish
  to accomplish something is to do it successfully to do something completely and successfully  Etymology: from Latin complere &amp;lsquo;to complete&amp;rsquo;
 Root word: accomplish (verb)
@@ -2845,10 +2845,10 @@ Related words: accomplishes (verb), accomplishing (verb), accomplishment (noun)<
     
     <item>
       <title>accomplishes (verb)</title>
-      <link>http://example.org/posts/accomplishes_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/accomplishes_verb/</link>
       <pubDate>Sat, 01 Aug 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/accomplishes_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/accomplishes_verb/</guid>
       <description>accomplishes verb əˈkʌmplɪʃɪz accomplishes is the third person present form of accomplish
  to accomplish something is to do it successfully to do something completely and successfully  Etymology: from Latin complere &amp;lsquo;to complete&amp;rsquo;
 Root word: accomplish (verb)
@@ -2860,10 +2860,10 @@ Related words: accomplishing (verb), accomplished (verb), accomplishment (noun)<
     
     <item>
       <title>accomplishing (verb)</title>
-      <link>http://example.org/posts/accomplishing_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/accomplishing_verb/</link>
       <pubDate>Fri, 31 Jul 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/accomplishing_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/accomplishing_verb/</guid>
       <description>accomplishing verb əˈkʌmplɪʃɪŋ accomplishing is the present continuous tense of accomplish
  to accomplish something is to do it successfully to do something completely and successfully  Etymology: from Latin complere &amp;lsquo;to complete&amp;rsquo;
 Root word: accomplish (verb)
@@ -2875,10 +2875,10 @@ Related words: accomplishes (verb), accomplished (verb), accomplishment (noun)</
     
     <item>
       <title>accomplishment (noun)</title>
-      <link>http://example.org/posts/accomplishment_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/accomplishment_noun/</link>
       <pubDate>Wed, 29 Jul 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/accomplishment_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/accomplishment_noun/</guid>
       <description>accomplishment noun əˈkʌmplɪʃmənt accomplishment is a derivative of accomplish
 Root word: accomplish (verb)
  Related roots: None
@@ -2889,10 +2889,10 @@ Related words: accomplishes (verb), accomplishing (verb), accomplished (verb)</d
     
     <item>
       <title>accomplishments (noun)</title>
-      <link>http://example.org/posts/accomplishments_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/accomplishments_noun/</link>
       <pubDate>Tue, 28 Jul 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/accomplishments_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/accomplishments_noun/</guid>
       <description>accomplishments noun accomplishments is the plural form of accomplishment
  something you do well something you have achieved or are good at  Root word: accomplishment (noun)
  Related roots: None
@@ -2903,10 +2903,10 @@ Related words: None</description>
     
     <item>
       <title>accord (noun)</title>
-      <link>http://example.org/posts/accord_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/accord_noun/</link>
       <pubDate>Mon, 27 Jul 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/accord_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/accord_noun/</guid>
       <description>accord noun əˈkɔːd
  agreement or consent  Root word: accord (noun) is a root form in the accord word family.
  Related roots: accord (verb)
@@ -2917,10 +2917,10 @@ Related words: accords (noun)</description>
     
     <item>
       <title>accord (verb)</title>
-      <link>http://example.org/posts/accord_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/accord_verb/</link>
       <pubDate>Sun, 26 Jul 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/accord_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/accord_verb/</guid>
       <description>accord verb əˈkɔːd
  to be consistent with something to give or grant someone a power or privilege  Root word: accord (verb) is a root form in the accord word family.
  Related roots: accord (noun)
@@ -2931,10 +2931,10 @@ Related words: accords (verb), according (verb), accorded (verb)</description>
     
     <item>
       <title>accorded (verb)</title>
-      <link>http://example.org/posts/accorded_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/accorded_verb/</link>
       <pubDate>Sat, 25 Jul 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/accorded_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/accorded_verb/</guid>
       <description>accorded verb əˈkɔːdɪd accorded is the past participle of accord
  to be consistent with something to give or grant someone a power or privilege  Root word: accord (verb)
  Related roots: accord (noun)
@@ -2945,10 +2945,10 @@ Related words: accords (verb), according (verb)</description>
     
     <item>
       <title>according (verb)</title>
-      <link>http://example.org/posts/according_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/according_verb/</link>
       <pubDate>Fri, 24 Jul 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/according_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/according_verb/</guid>
       <description>according verb əˈkɔːdɪŋ according is the present continuous tense of accord
  to be consistent with something to give or grant someone a power or privilege  Root word: accord (verb)
  Related roots: accord (noun)
@@ -2959,10 +2959,10 @@ Related words: accords (verb), accorded (verb)</description>
     
     <item>
       <title>according to (preposition)</title>
-      <link>http://example.org/posts/according-to_preposition/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/according-to_preposition/</link>
       <pubDate>Thu, 23 Jul 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/according-to_preposition/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/according-to_preposition/</guid>
       <description>according to preposition əˈkɔːdɪŋ tə OR əˈkɔːdɪŋ tu
  you say according to someone to show where a piece of information comes from you say according to something when you are comparing two things used to show how one thing relates to another following something such as a plan or rule  Root word: according to (preposition) is a root form in the according to word family.
  Related roots: None</description>
@@ -2972,10 +2972,10 @@ Related words: accords (verb), accorded (verb)</description>
     
     <item>
       <title>accordingly (adverb)</title>
-      <link>http://example.org/posts/accordingly_adverb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/accordingly_adverb/</link>
       <pubDate>Wed, 22 Jul 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/accordingly_adverb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/accordingly_adverb/</guid>
       <description>accordingly adverb əˈkɔːdɪŋli
  consequently therefore in a way that is suitable  Root word: accordingly (adverb) is a root form in the accordingly word family.
  Related roots: None
@@ -2986,10 +2986,10 @@ Related words: None</description>
     
     <item>
       <title>accordion (noun)</title>
-      <link>http://example.org/posts/accordion_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/accordion_noun/</link>
       <pubDate>Tue, 21 Jul 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/accordion_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/accordion_noun/</guid>
       <description>accordion noun əˈkɔːdiən
  a portable musical instrument which you play by squeezing the sides and pressing on the keys a portable musical instrument with bellows and a set of piano-type keys at one end, played by squeezing and stretching it and pressing the keys  Etymology: from Italian accordare &amp;lsquo;to tune an instrument&amp;rsquo;
 Root word: accordion (noun) is a root form in the accordion word family.
@@ -3000,10 +3000,10 @@ Root word: accordion (noun) is a root form in the accordion word family.
     
     <item>
       <title>accordions (noun)</title>
-      <link>http://example.org/posts/accordions_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/accordions_noun/</link>
       <pubDate>Mon, 20 Jul 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/accordions_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/accordions_noun/</guid>
       <description>accordions noun accordions is the plural form of accordion
  a portable musical instrument which you play by squeezing the sides and pressing on the keys a portable musical instrument with bellows and a set of piano-type keys at one end, played by squeezing and stretching it and pressing the keys  Etymology: from Italian accordare &amp;lsquo;to tune an instrument&amp;rsquo;
 Root word: accordion (noun)
@@ -3015,10 +3015,10 @@ Related words: None</description>
     
     <item>
       <title>accords (noun)</title>
-      <link>http://example.org/posts/accords_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/accords_noun/</link>
       <pubDate>Sun, 19 Jul 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/accords_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/accords_noun/</guid>
       <description>accords noun əˈkɔːdz accords is the plural form of accord
 Root word: accord (noun)
  Related roots: accord (verb)
@@ -3029,10 +3029,10 @@ Related words: None</description>
     
     <item>
       <title>accords (verb)</title>
-      <link>http://example.org/posts/accords_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/accords_verb/</link>
       <pubDate>Sat, 18 Jul 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/accords_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/accords_verb/</guid>
       <description>accords verb əˈkɔːdz accords is the third person present form of accord
  to be consistent with something to give or grant someone a power or privilege  Root word: accord (verb)
  Related roots: accord (noun)
@@ -3043,10 +3043,10 @@ Related words: according (verb), accorded (verb)</description>
     
     <item>
       <title>account (noun)</title>
-      <link>http://example.org/posts/account_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/account_noun/</link>
       <pubDate>Fri, 17 Jul 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/account_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/account_noun/</guid>
       <description>account noun əˈkaʊnt
  a description or story about something that happened an amount of money someone has in a bank or building society a statement showing how much money someone owes, a bill an arrangement to use a computing or social media service a statement of the money a person or organization owes or has received If you have a bank account, you have money in a bank.  Root word: account (noun) is a root form in the account word family.</description>
     </item>
@@ -3055,10 +3055,10 @@ Related words: according (verb), accorded (verb)</description>
     
     <item>
       <title>account (verb)</title>
-      <link>http://example.org/posts/account_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/account_verb/</link>
       <pubDate>Thu, 16 Jul 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/account_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/account_verb/</guid>
       <description>account verb əˈkaʊnt
  to account for something is to be an explanation of it  Root word: account (verb) is a root form in the account word family.
  Related roots: account (noun)
@@ -3069,10 +3069,10 @@ Related words: accounts (verb), accounting (verb), accounted (verb)</description
     
     <item>
       <title>accountancy (noun)</title>
-      <link>http://example.org/posts/accountancy_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/accountancy_noun/</link>
       <pubDate>Wed, 15 Jul 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/accountancy_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/accountancy_noun/</guid>
       <description>accountancy noun əˈkaʊntənsi accountancy is a derivative of accountant
 Root word: accountant (noun)
  Related roots: None
@@ -3083,10 +3083,10 @@ Related words: accountants (noun)</description>
     
     <item>
       <title>accountant (noun)</title>
-      <link>http://example.org/posts/accountant_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/accountant_noun/</link>
       <pubDate>Tue, 14 Jul 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/accountant_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/accountant_noun/</guid>
       <description>accountant noun əˈkaʊntənt
  a person whose job is to write and organise the money accounts of a person or organisation someone whose job is to record and organize the money a person or organization spends and receives  Root word: accountant (noun) is a root form in the accountant word family.
  Related roots: None
@@ -3097,10 +3097,10 @@ Related words: accountants (noun), accountancy (noun)</description>
     
     <item>
       <title>accountants (noun)</title>
-      <link>http://example.org/posts/accountants_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/accountants_noun/</link>
       <pubDate>Mon, 13 Jul 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/accountants_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/accountants_noun/</guid>
       <description>accountants noun accountants is the plural form of accountant
  a person whose job is to write and organise the money accounts of a person or organisation someone whose job is to record and organize the money a person or organization spends and receives  Root word: accountant (noun)
  Related roots: None
@@ -3111,10 +3111,10 @@ Related words: accountancy (noun)</description>
     
     <item>
       <title>accounted (verb)</title>
-      <link>http://example.org/posts/accounted_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/accounted_verb/</link>
       <pubDate>Sun, 12 Jul 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/accounted_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/accounted_verb/</guid>
       <description>accounted verb əˈkaʊntɪd accounted is the past participle of account
  to account for something is to be an explanation of it  Root word: account (verb)
  Related roots: account (noun)
@@ -3125,10 +3125,10 @@ Related words: accounts (verb), accounting (verb)</description>
     
     <item>
       <title>accounting (noun)</title>
-      <link>http://example.org/posts/accounting_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/accounting_noun/</link>
       <pubDate>Sat, 11 Jul 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/accounting_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/accounting_noun/</guid>
       <description>accounting noun əˈkaʊntɪŋ
  the business of keeping financial accounts  Root word: accounting (noun) is a root form in the accounting word family.
  Related roots: None
@@ -3139,10 +3139,10 @@ Related words: None</description>
     
     <item>
       <title>accounting (verb)</title>
-      <link>http://example.org/posts/accounting_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/accounting_verb/</link>
       <pubDate>Fri, 10 Jul 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/accounting_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/accounting_verb/</guid>
       <description>accounting verb əˈkaʊntɪŋ accounting is the present continuous tense of account
  to account for something is to be an explanation of it  Root word: account (verb)
  Related roots: account (noun)
@@ -3153,10 +3153,10 @@ Related words: accounts (verb), accounted (verb)</description>
     
     <item>
       <title>accounts (noun)</title>
-      <link>http://example.org/posts/accounts_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/accounts_noun/</link>
       <pubDate>Thu, 09 Jul 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/accounts_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/accounts_noun/</guid>
       <description>accounts noun əˈkaʊnts accounts is the plural form of account
  a description or story about something that happened an amount of money someone has in a bank or building society a statement showing how much money someone owes, a bill an arrangement to use a computing or social media service a statement of the money a person or organization owes or has received If you have a bank account, you have money in a bank.</description>
     </item>
@@ -3165,10 +3165,10 @@ Related words: accounts (verb), accounted (verb)</description>
     
     <item>
       <title>accounts (verb)</title>
-      <link>http://example.org/posts/accounts_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/accounts_verb/</link>
       <pubDate>Wed, 08 Jul 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/accounts_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/accounts_verb/</guid>
       <description>accounts verb əˈkaʊnts accounts is the third person present form of account
  to account for something is to be an explanation of it  Root word: account (verb)
  Related roots: account (noun)
@@ -3179,10 +3179,10 @@ Related words: accounting (verb), accounted (verb)</description>
     
     <item>
       <title>accumulate (verb)</title>
-      <link>http://example.org/posts/accumulate_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/accumulate_verb/</link>
       <pubDate>Tue, 07 Jul 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/accumulate_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/accumulate_verb/</guid>
       <description>accumulate verb əˈkjuːmjəleɪt
  to accumulate things is to collect them or pile them up things accumulate when they form a heap or pile to increase in quantity  Etymology: from Latin cumulus &amp;lsquo;heap&amp;rsquo;
 Root word: accumulate (verb) is a root form in the accumulate word family.
@@ -3194,10 +3194,10 @@ Related words: accumulates (verb), accumulating (verb), accumulated (verb), accu
     
     <item>
       <title>accumulated (verb)</title>
-      <link>http://example.org/posts/accumulated_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/accumulated_verb/</link>
       <pubDate>Mon, 06 Jul 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/accumulated_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/accumulated_verb/</guid>
       <description>accumulated verb əˈkjuːmjəleɪtɪd accumulated is the past participle of accumulate
  to accumulate things is to collect them or pile them up things accumulate when they form a heap or pile to increase in quantity  Etymology: from Latin cumulus &amp;lsquo;heap&amp;rsquo;
 Root word: accumulate (verb)
@@ -3209,10 +3209,10 @@ Related words: accumulates (verb), accumulating (verb), accumulation (noun)</des
     
     <item>
       <title>accumulates (verb)</title>
-      <link>http://example.org/posts/accumulates_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/accumulates_verb/</link>
       <pubDate>Sun, 05 Jul 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/accumulates_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/accumulates_verb/</guid>
       <description>accumulates verb əˈkjuːmjəleɪts accumulates is the third person present form of accumulate
  to accumulate things is to collect them or pile them up things accumulate when they form a heap or pile to increase in quantity  Etymology: from Latin cumulus &amp;lsquo;heap&amp;rsquo;
 Root word: accumulate (verb)
@@ -3224,10 +3224,10 @@ Related words: accumulating (verb), accumulated (verb), accumulation (noun)</des
     
     <item>
       <title>accumulating (verb)</title>
-      <link>http://example.org/posts/accumulating_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/accumulating_verb/</link>
       <pubDate>Sat, 04 Jul 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/accumulating_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/accumulating_verb/</guid>
       <description>accumulating verb əˈkjuːmjəleɪtɪŋ accumulating is the present continuous tense of accumulate
  to accumulate things is to collect them or pile them up things accumulate when they form a heap or pile to increase in quantity  Etymology: from Latin cumulus &amp;lsquo;heap&amp;rsquo;
 Root word: accumulate (verb)
@@ -3239,10 +3239,10 @@ Related words: accumulates (verb), accumulated (verb), accumulation (noun)</desc
     
     <item>
       <title>accumulation (noun)</title>
-      <link>http://example.org/posts/accumulation_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/accumulation_noun/</link>
       <pubDate>Thu, 02 Jul 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/accumulation_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/accumulation_noun/</guid>
       <description>accumulation noun əˌkjuːmjəˈleɪʃn accumulation is a derivative of accumulate
 Root word: accumulate (verb)
  Related roots: None
@@ -3253,10 +3253,10 @@ Related words: accumulates (verb), accumulating (verb), accumulated (verb)</desc
     
     <item>
       <title>accuracy (noun)</title>
-      <link>http://example.org/posts/accuracy_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/accuracy_noun/</link>
       <pubDate>Tue, 30 Jun 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/accuracy_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/accuracy_noun/</guid>
       <description>accuracy noun ˈækjərəsi accuracy is a derivative of accurate
 Root word: accurate (adjective)
  Related roots: None
@@ -3267,10 +3267,10 @@ Related words: accurately (adverb)</description>
     
     <item>
       <title>accurate (adjective)</title>
-      <link>http://example.org/posts/accurate_adjective/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/accurate_adjective/</link>
       <pubDate>Mon, 29 Jun 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/accurate_adjective/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/accurate_adjective/</guid>
       <description>accurate adjective ˈækjərət
  correct, done exactly and carefully correct or exact; giving the right information exactly correct or exactly in the right place  Etymology: from Latin cura &amp;lsquo;care&amp;rsquo;, also the source of our words curious and secure
 Root word: accurate (adjective) is a root form in the accurate word family.
@@ -3282,10 +3282,10 @@ Related words: accurately (adverb), accuracy (noun)</description>
     
     <item>
       <title>accurately (adverb)</title>
-      <link>http://example.org/posts/accurately_adverb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/accurately_adverb/</link>
       <pubDate>Sun, 28 Jun 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/accurately_adverb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/accurately_adverb/</guid>
       <description>accurately adverb ˈækjərətli accurately is a derivative of accurate
  to do something accurately is to do it carefully and exactly  Root word: accurate (adjective)
  Related roots: None
@@ -3296,10 +3296,10 @@ Related words: accuracy (noun)</description>
     
     <item>
       <title>accusation (noun)</title>
-      <link>http://example.org/posts/accusation_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/accusation_noun/</link>
       <pubDate>Fri, 26 Jun 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/accusation_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/accusation_noun/</guid>
       <description>accusation noun ˌækjuˈzeɪʃn accusation is a derivative of accuse
 Root word: accuse (verb)
  Related roots: None
@@ -3310,10 +3310,10 @@ Related words: accuses (verb), accusing (verb), accused (verb), accuser (noun)</
     
     <item>
       <title>accusations (noun)</title>
-      <link>http://example.org/posts/accusations_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/accusations_noun/</link>
       <pubDate>Thu, 25 Jun 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/accusations_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/accusations_noun/</guid>
       <description>accusations noun accusations is the plural form of accusation
  a statement accusing someone of something a statement claiming that someone has committed a crime or done something wrong  Root word: accusation (noun)
  Related roots: None
@@ -3324,10 +3324,10 @@ Related words: None</description>
     
     <item>
       <title>accuse (verb)</title>
-      <link>http://example.org/posts/accuse_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/accuse_verb/</link>
       <pubDate>Wed, 24 Jun 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/accuse_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/accuse_verb/</guid>
       <description>accuse verb əˈkjuːz
  to accuse someone is to say that they did something wrong  Etymology: from Latin causa &amp;lsquo;cause&amp;rsquo;
 Root word: accuse (verb) is a root form in the accuse word family.
@@ -3339,10 +3339,10 @@ Related words: accuses (verb), accusing (verb), accused (verb), accuser (noun), 
     
     <item>
       <title>accused (verb)</title>
-      <link>http://example.org/posts/accused_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/accused_verb/</link>
       <pubDate>Tue, 23 Jun 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/accused_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/accused_verb/</guid>
       <description>accused verb əˈkjuːzd OR ði əˈkjuːzd accused is the past participle of accuse
  to accuse someone is to say that they did something wrong  Etymology: from Latin causa &amp;lsquo;cause&amp;rsquo;
 Root word: accuse (verb)
@@ -3354,10 +3354,10 @@ Related words: accuses (verb), accusing (verb), accuser (noun), accusation (noun
     
     <item>
       <title>accuser (noun)</title>
-      <link>http://example.org/posts/accuser_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/accuser_noun/</link>
       <pubDate>Mon, 22 Jun 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/accuser_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/accuser_noun/</guid>
       <description>accuser noun accuser is a derivative of accuse
 Root word: accuse (verb)
  Related roots: None
@@ -3368,10 +3368,10 @@ Related words: accuses (verb), accusing (verb), accused (verb), accusation (noun
     
     <item>
       <title>accuses (verb)</title>
-      <link>http://example.org/posts/accuses_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/accuses_verb/</link>
       <pubDate>Sun, 21 Jun 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/accuses_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/accuses_verb/</guid>
       <description>accuses verb əˈkjuːzɪz accuses is the third person present form of accuse
  to accuse someone is to say that they did something wrong  Etymology: from Latin causa &amp;lsquo;cause&amp;rsquo;
 Root word: accuse (verb)
@@ -3383,10 +3383,10 @@ Related words: accusing (verb), accused (verb), accuser (noun), accusation (noun
     
     <item>
       <title>accusing (verb)</title>
-      <link>http://example.org/posts/accusing_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/accusing_verb/</link>
       <pubDate>Sat, 20 Jun 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/accusing_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/accusing_verb/</guid>
       <description>accusing verb əˈkjuːzɪŋ accusing is the present continuous tense of accuse
  to accuse someone is to say that they did something wrong  Etymology: from Latin causa &amp;lsquo;cause&amp;rsquo;
 Root word: accuse (verb)
@@ -3398,10 +3398,10 @@ Related words: accuses (verb), accused (verb), accuser (noun), accusation (noun)
     
     <item>
       <title>accustomed (adjective)</title>
-      <link>http://example.org/posts/accustomed_adjective/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/accustomed_adjective/</link>
       <pubDate>Fri, 19 Jun 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/accustomed_adjective/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/accustomed_adjective/</guid>
       <description>accustomed adjective əˈkʌstəmd
 Root word: accustomed (adjective) is a root form in the accustomed word family.
  Related roots: None
@@ -3412,10 +3412,10 @@ Related words: None</description>
     
     <item>
       <title>ace (noun)</title>
-      <link>http://example.org/posts/ace_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/ace_noun/</link>
       <pubDate>Thu, 18 Jun 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/ace_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/ace_noun/</guid>
       <description>ace noun eɪs
  a playing card with an A in the corner and a large emblem of the suit in the centre a very clever or skilful person in tennis, an ace is a serve that the other player cannot return a playing card with one spot (in tennis) a serve that is too fast or well aimed for the other player to return  Etymology: from Latin as &amp;lsquo;unit&amp;rsquo;</description>
     </item>
@@ -3424,10 +3424,10 @@ Related words: None</description>
     
     <item>
       <title>aces (noun)</title>
-      <link>http://example.org/posts/aces_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/aces_noun/</link>
       <pubDate>Wed, 17 Jun 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/aces_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/aces_noun/</guid>
       <description>aces noun ˈeɪsɪz aces is the plural form of ace
  a playing card with an A in the corner and a large emblem of the suit in the centre a very clever or skilful person in tennis, an ace is a serve that the other player cannot return a playing card with one spot (in tennis) a serve that is too fast or well aimed for the other player to return  Etymology: from Latin as &amp;lsquo;unit&amp;rsquo;</description>
     </item>
@@ -3436,10 +3436,10 @@ Related words: None</description>
     
     <item>
       <title>ache (noun)</title>
-      <link>http://example.org/posts/ache_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/ache_noun/</link>
       <pubDate>Tue, 16 Jun 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/ache_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/ache_noun/</guid>
       <description>ache noun eɪk
  a dull steady pain  Root word: ache (noun) is a root form in the ache word family.
  Related roots: ache (verb)
@@ -3450,10 +3450,10 @@ Related words: aches (noun)</description>
     
     <item>
       <title>ache (verb)</title>
-      <link>http://example.org/posts/ache_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/ache_verb/</link>
       <pubDate>Mon, 15 Jun 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/ache_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/ache_verb/</guid>
       <description>ache verb eɪk
  to ache is to feel a dull steady pain to have an ache; to be painful to want something very badly; to yearn for something or someone  Root word: ache (verb) is a root form in the ache word family.
  Related roots: ache (noun)
@@ -3464,10 +3464,10 @@ Related words: aches (verb), aching (verb), ached (verb)</description>
     
     <item>
       <title>ached (verb)</title>
-      <link>http://example.org/posts/ached_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/ached_verb/</link>
       <pubDate>Sun, 14 Jun 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/ached_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/ached_verb/</guid>
       <description>ached verb eɪkt ached is the past participle of ache
  to ache is to feel a dull steady pain to have an ache; to be painful to want something very badly; to yearn for something or someone  Root word: ache (verb)
  Related roots: ache (noun)
@@ -3478,10 +3478,10 @@ Related words: aches (verb), aching (verb)</description>
     
     <item>
       <title>aches (noun)</title>
-      <link>http://example.org/posts/aches_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/aches_noun/</link>
       <pubDate>Sat, 13 Jun 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/aches_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/aches_noun/</guid>
       <description>aches noun eɪks aches is the plural form of ache
  a dull steady pain  Root word: ache (noun)
  Related roots: ache (verb)
@@ -3492,10 +3492,10 @@ Related words: None</description>
     
     <item>
       <title>aches (verb)</title>
-      <link>http://example.org/posts/aches_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/aches_verb/</link>
       <pubDate>Fri, 12 Jun 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/aches_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/aches_verb/</guid>
       <description>aches verb eɪks aches is the third person present form of ache
  to ache is to feel a dull steady pain to have an ache; to be painful to want something very badly; to yearn for something or someone  Root word: ache (verb)
  Related roots: ache (noun)
@@ -3506,10 +3506,10 @@ Related words: aching (verb), ached (verb)</description>
     
     <item>
       <title>achievable (adjective)</title>
-      <link>http://example.org/posts/achievable_adjective/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/achievable_adjective/</link>
       <pubDate>Thu, 11 Jun 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/achievable_adjective/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/achievable_adjective/</guid>
       <description>achievable adjective achievable is a derivative of achieve
 Root word: achieve (verb)
  Related roots: None
@@ -3520,10 +3520,10 @@ Related words: achieves (verb), achieving (verb), achieved (verb), achievement (
     
     <item>
       <title>achieve (verb)</title>
-      <link>http://example.org/posts/achieve_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/achieve_verb/</link>
       <pubDate>Wed, 10 Jun 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/achieve_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/achieve_verb/</guid>
       <description>achieve verb əˈtʃiːv
  to achieve something is to succeed in doing it or getting it  Root word: achieve (verb) is a root form in the achieve word family.
  Related roots: None
@@ -3534,10 +3534,10 @@ Related words: achieves (verb), achieving (verb), achieved (verb), achievable (a
     
     <item>
       <title>achieved (verb)</title>
-      <link>http://example.org/posts/achieved_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/achieved_verb/</link>
       <pubDate>Tue, 09 Jun 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/achieved_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/achieved_verb/</guid>
       <description>achieved verb əˈtʃiːvd achieved is the past participle of achieve
  to achieve something is to succeed in doing it or getting it  Root word: achieve (verb)
  Related roots: None
@@ -3548,10 +3548,10 @@ Related words: achieves (verb), achieving (verb), achievable (adjective), achiev
     
     <item>
       <title>achievement (noun)</title>
-      <link>http://example.org/posts/achievement_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/achievement_noun/</link>
       <pubDate>Sun, 07 Jun 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/achievement_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/achievement_noun/</guid>
       <description>achievement noun əˈtʃiːvmənt achievement is a derivative of achieve
 Root word: achieve (verb)
  Related roots: None
@@ -3562,10 +3562,10 @@ Related words: achieves (verb), achieving (verb), achieved (verb), achievable (a
     
     <item>
       <title>achievements (noun)</title>
-      <link>http://example.org/posts/achievements_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/achievements_noun/</link>
       <pubDate>Sat, 06 Jun 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/achievements_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/achievements_noun/</guid>
       <description>achievements noun achievements is the plural form of achievement
  something someone has succeeded in doing something good or worthwhile that you have succeeded in doing  Root word: achievement (noun)
  Related roots: None
@@ -3576,10 +3576,10 @@ Related words: None</description>
     
     <item>
       <title>achieves (verb)</title>
-      <link>http://example.org/posts/achieves_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/achieves_verb/</link>
       <pubDate>Fri, 05 Jun 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/achieves_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/achieves_verb/</guid>
       <description>achieves verb əˈtʃiːvz achieves is the third person present form of achieve
  to achieve something is to succeed in doing it or getting it  Root word: achieve (verb)
  Related roots: None
@@ -3590,10 +3590,10 @@ Related words: achieving (verb), achieved (verb), achievable (adjective), achiev
     
     <item>
       <title>achieving (verb)</title>
-      <link>http://example.org/posts/achieving_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/achieving_verb/</link>
       <pubDate>Thu, 04 Jun 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/achieving_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/achieving_verb/</guid>
       <description>achieving verb əˈtʃiːvɪŋ achieving is the present continuous tense of achieve
  to achieve something is to succeed in doing it or getting it  Root word: achieve (verb)
  Related roots: None
@@ -3604,10 +3604,10 @@ Related words: achieves (verb), achieved (verb), achievable (adjective), achieve
     
     <item>
       <title>aching (verb)</title>
-      <link>http://example.org/posts/aching_verb/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/aching_verb/</link>
       <pubDate>Wed, 03 Jun 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/aching_verb/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/aching_verb/</guid>
       <description>aching verb ˈeɪkɪŋ aching is the present continuous tense of ache
  to ache is to feel a dull steady pain to have an ache; to be painful to want something very badly; to yearn for something or someone  Root word: ache (verb)
  Related roots: ache (noun)
@@ -3618,10 +3618,10 @@ Related words: aches (verb), ached (verb)</description>
     
     <item>
       <title>achoo (exclamation)</title>
-      <link>http://example.org/posts/achoo_exclamation/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/achoo_exclamation/</link>
       <pubDate>Tue, 02 Jun 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/achoo_exclamation/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/achoo_exclamation/</guid>
       <description>achoo exclamation əˈtʃuː
  the sound someone makes when they sneeze  Root word: achoo (exclamation) is a root form in the achoo word family.
  Related roots: None
@@ -3632,10 +3632,10 @@ Related words: None</description>
     
     <item>
       <title>acid (adjective)</title>
-      <link>http://example.org/posts/acid_adjective/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/acid_adjective/</link>
       <pubDate>Mon, 01 Jun 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/acid_adjective/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/acid_adjective/</guid>
       <description>acid adjective ˈæsɪd
  sour or bitter to taste sharp-tasting; sour looking or sounding bitter or unkind  Root word: acid (adjective) is a root form in the acid word family.
  Related roots: acid (noun)
@@ -3646,10 +3646,10 @@ Related words: acidity (noun)</description>
     
     <item>
       <title>acid (noun)</title>
-      <link>http://example.org/posts/acid_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/acid_noun/</link>
       <pubDate>Sun, 31 May 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/acid_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/acid_noun/</guid>
       <description>acid noun ˈæsɪd
  a substance that contains hydrogen and causes chemical change. Acids are the opposite of alkalis a chemical substance that contains hydrogen and neutralizes alkalis. The hydrogen can be replaced by a metal to form a salt.  Root word: acid (noun) is a root form in the acid word family.
  Related roots: acid (adjective)
@@ -3660,10 +3660,10 @@ Related words: acids (noun), acidic (adjective)</description>
     
     <item>
       <title>acidic (adjective)</title>
-      <link>http://example.org/posts/acidic_adjective/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/acidic_adjective/</link>
       <pubDate>Fri, 29 May 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/acidic_adjective/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/acidic_adjective/</guid>
       <description>acidic adjective əˈsɪdɪk acidic is a derivative of acid
 Root word: acid (noun)
  Related roots: acid (adjective)
@@ -3674,10 +3674,10 @@ Related words: acids (noun)</description>
     
     <item>
       <title>acidity (noun)</title>
-      <link>http://example.org/posts/acidity_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/acidity_noun/</link>
       <pubDate>Thu, 28 May 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/acidity_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/acidity_noun/</guid>
       <description>acidity noun əˈsɪdəti acidity is a derivative of acid
 Root word: acid (adjective)
  Related roots: acid (noun)
@@ -3688,10 +3688,10 @@ Related words: None</description>
     
     <item>
       <title>acids (noun)</title>
-      <link>http://example.org/posts/acids_noun/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/acids_noun/</link>
       <pubDate>Wed, 27 May 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/acids_noun/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/acids_noun/</guid>
       <description>acids noun acids is the plural form of acid
  a substance that contains hydrogen and causes chemical change. Acids are the opposite of alkalis a chemical substance that contains hydrogen and neutralizes alkalis. The hydrogen can be replaced by a metal to form a salt.  Root word: acid (noun)
  Related roots: acid (adjective)
@@ -3702,10 +3702,10 @@ Related words: acidic (adjective)</description>
     
     <item>
       <title>an (determiner)</title>
-      <link>http://example.org/posts/an_determiner/</link>
+      <link>https://mahardan-oup.github.io/CLDDemo/posts/an_determiner/</link>
       <pubDate>Tue, 26 May 2020 11:27:37 +0000</pubDate>
       
-      <guid>http://example.org/posts/an_determiner/</guid>
+      <guid>https://mahardan-oup.github.io/CLDDemo/posts/an_determiner/</guid>
       <description>an determiner an is a variant of a
  one (when there are others as well) used to show how often something happens  Root word: a (determiner)
  Related roots: None
